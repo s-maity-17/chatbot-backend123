@@ -1,0 +1,10 @@
+langchain
+unstructured # Document loading
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+langchain-openai
+python-dotenv
+flask
+# streamlit
+# gradio    
