@@ -88,13 +88,13 @@ def get_db_response(question):
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
         prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
         prompt = prompt_template.format(context=context_text, question=query_text)
-        print('==========input=============',len(prompt.split()))
+        # print('==========input=============',len(prompt.split()))
 
         model = OpenAI(api_key=os.environ.get('OPEN_AI_KEY'))
         response_text = model.predict(prompt)
 
         response_text = str(response_text).strip()
-        print('-------output------',len(response_text.split()))
+        # print('-------output------',len(response_text.split()))
         # sources = [doc.metadata.get("source", None) for doc, _score in results]
         # formatted_response = f"Response: {response_text}\nSources: {sources}"
 

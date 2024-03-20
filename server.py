@@ -1,12 +1,14 @@
 from flask import Flask, request, jsonify
 from chat_bot import generate_data_store
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # REST: Home page
 @app.route('/')
 def home():
-    return 'Welcome to Chant bot!!'
+    return 'Welcome to Chat bot!!'
 
 @app.post("/chat-bot")
 def process_text():

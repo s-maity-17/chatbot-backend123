@@ -6,5 +6,6 @@ tiktoken  # For embeddings
 langchain-openai
 python-dotenv
 flask
+flask-cors
 # streamlit
-# gradio    
+# gradio
