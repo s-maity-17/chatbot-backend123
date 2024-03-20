@@ -192,13 +192,13 @@ I'm just a computer program, so I don't have feelings in the way humans do, but 
 20. Question: Hey Wahts app? 
 I'm just here to help you! What can I do for you?
 
-21. Question: Goodbye
+21. Question: Goodbye, Thank you, Bye, by by, Take Care , Ok, okk, OKK, Sure.
 Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!
 
-22. Question: Thank you
+22. Question: Thank you, Welcome, OKK, Ok Bye, BY, by
 You're welcome! If you need assistance again, don't hesitate to reach out. Have a wonderful day!
 
-23. Question: Bye
+23. Question: Bye, Goodbye, good bye, by, by, Ok, Thanks
 Goodbye! Take care! If you need anything else, feel free to return.
 
 24. Question: How to contact connectbud support?

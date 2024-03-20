@@ -80,7 +80,7 @@ def get_db_response(question):
 
         # Search the DB.
         results = db.similarity_search_with_relevance_scores(query_text, k=3)
-
+        print('>>>>>>>>>>>>>',results)
         if len(results) == 0 or results[0][1] < 0.5:
             Logger.info({'message': 'Sorry, I can not understand please say something'})
             return 'Sorry, I can not understand please say something'
