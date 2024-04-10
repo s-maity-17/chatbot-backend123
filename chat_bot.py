@@ -8,11 +8,14 @@ from langchain_openai.llms import OpenAI
 import os
 from dotenv import load_dotenv
 from logger import Logger
-
+from langchain.cache import InMemoryCache
+from langchain.globals import set_llm_cache
+from langchain.callbacks.manager import get_openai_callback
+from datetime import datetime, timezone
 
 load_dotenv()
 
-CHROMA_PATH = "chroma"
+CHROMA_PATH = "./chroma/"
 
 # def main():
 #     generate_data_store()
@@ -53,13 +56,65 @@ def split_text(documents: list[Document]):
 def save_to_chroma(chunks: list[Document]):
     # Create a new DB from the documents.
     try:
+        chroma_path = CHROMA_PATH
+        if not os.path.exists(chroma_path):
+            chroma_path = os.makedirs('./chroma/')
+
         db = Chroma.from_documents(
-            chunks, OpenAIEmbeddings(api_key=os.environ.get('OPEN_AI_KEY')), persist_directory=CHROMA_PATH
+            chunks, OpenAIEmbeddings(api_key=os.environ.get('OPEN_AI_KEY')), persist_directory=chroma_path
         )
         db.persist()
         Logger.info({'message': f'Saved {len(chunks)} chunks to {CHROMA_PATH}.'})
     except Exception as err:
         Logger.error({'message': f'Open-Ai failed to save {len(chunks)} chunks to {CHROMA_PATH}.', 'error': err})
+
+# def get_db_response(question):
+#     try:
+
+#         PROMPT_TEMPLATE = """
+#         Answer the question based only on the following context:
+
+#         {context}
+
+#         ---
+
+#         Answer the question based on the above context: {question}
+#         """
+#         query_text = question
+
+#         # Prepare the DB.
+#         db = Chroma(persist_directory=CHROMA_PATH, embedding_function=OpenAIEmbeddings(api_key=os.environ.get('OPEN_AI_KEY')))
+
+#         # Search the DB.
+#         results = db.similarity_search_with_relevance_scores(query=query_text, k=3)
+#         # print('>>>>>>>>>>>>>',results)
+#         if len(results) == 0 or results[0][1] < 0.5:
+#             Logger.info({'message': 'Sorry, I can not understand please say something'})
+#             return 'Sorry, I can not understand please say something'
+
+#         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
+#         prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+#         prompt = prompt_template.format(context=context_text, question=query_text)
+#         # print('==========input=============',len(prompt.split()))
+
+#         model = OpenAI(api_key=os.environ.get('OPEN_AI_KEY'))
+#         response_text = model.predict(prompt)
+#         # response_text = model.invoke(input=prompt)
+
+#         response_text = str(response_text).strip()
+#         # print('-------output------',len(response_text.split()))
+#         # sources = [doc.metadata.get("source", None) for doc, _score in results]
+#         # formatted_response = f"Response: {response_text}\nSources: {sources}"
+
+#         Logger.info({'message': 'Formatted response fetched from chroma-db', 'response': response_text})
+#         return response_text
+#     except Exception as err:
+#         Logger.error({'message': 'Open-Ai failed to fetch data from chroma-db', 'error': err})
+
+# if __name__ == "__main__":
+#     chat_demo = gr.ChatInterface(generate_data_store)
+#     chat_demo.launch()
+#     main()
 
 def get_db_response(question):
     try:
@@ -74,6 +129,8 @@ def get_db_response(question):
         Answer the question based on the above context: {question}
         """
         query_text = question
+        response_text = None
+        set_llm_cache(InMemoryCache())
 
         # Prepare the DB.
         db = Chroma(persist_directory=CHROMA_PATH, embedding_function=OpenAIEmbeddings(api_key=os.environ.get('OPEN_AI_KEY')))
@@ -91,19 +148,13 @@ def get_db_response(question):
         # print('==========input=============',len(prompt.split()))
 
         model = OpenAI(api_key=os.environ.get('OPEN_AI_KEY'))
-        response_text = model.predict(prompt)
+        result = model.predict(prompt)
 
-        response_text = str(response_text).strip()
-        # print('-------output------',len(response_text.split()))
-        # sources = [doc.metadata.get("source", None) for doc, _score in results]
-        # formatted_response = f"Response: {response_text}\nSources: {sources}"
+        with get_openai_callback() as cb:
+            response_text = str(result).strip()
+            Logger.info({'message': 'Call back ', 'response': cb})
 
         Logger.info({'message': 'Formatted response fetched from chroma-db', 'response': response_text})
         return response_text
     except Exception as err:
         Logger.error({'message': 'Open-Ai failed to fetch data from chroma-db', 'error': err})
-
-# if __name__ == "__main__":
-    # chat_demo = gr.ChatInterface(generate_data_store)
-    # chat_demo.launch()
-    # main()
