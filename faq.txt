@@ -182,7 +182,7 @@ ConnectBud Guideline and Policy for Tutors:
 
 *Violating our guidelines and policy will lead to the removal of a tutor’s profile from the ConnectBud platform.
 
-18. Question: Hi, Hey, Hello
+18. Question: Hii, hii, Hi, hi, hey, Hey, Hello, hello
 Hello! How can I help you?
 
 
@@ -198,7 +198,7 @@ Goodbye! If you have any more questions in the future, feel free to ask. Have a 
 22. Question: Thank you, Welcome, OKK, Ok Bye, BY, by
 You're welcome! If you need assistance again, don't hesitate to reach out. Have a wonderful day!
 
-23. Question: Bye, Goodbye, good bye, by, by, Ok, Thanks
+23. Question: Bye, By, Goodbye, good bye, by, ok, OK, thanks, Thanks
 Goodbye! Take care! If you need anything else, feel free to return.
 
 24. Question: How to contact connectbud support?
