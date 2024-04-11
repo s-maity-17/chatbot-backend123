@@ -1,144 +1,915 @@
 FAQs for Parents
 We are sharing some of our most frequently asked questions to help you out:
+
 1.Question: What are the qualifications of your student tutors?
 ConnectBud tutors are some of the brightest students who are currently studying in the top engineering colleges pursuing B.Tech, M. Tech, B.Sc. and M.Sc. In terms of their subject knowledge, communication skills and a deep understanding of the cutting-edge coding technologies, they are the most updated tutors.
+
 2.Question: Does my child need to have any prior coding experience?
 Kids aged 7 to 16, without any prior experience can learn coding. If your child is 7 years old, then she/he is capable of grasping at least beginner’s coding concepts. Today’s kids intuitively grasp programming concepts right away without ever having any level of prior experience.
+
 3.Question: How do I use the ConnectBud platform?
 You simply need to register with your Gmail or Facebook.
+
 Choose a course and book your classes ( 4 classes or 10 classes).
+
 Once you choose your course and class, you will see a list of eligible tutors with the option to hire the tutor.
+
 After hiring make the payment done and you will get the option of chatting with the tutor (once the tutor accepts the proposal).
+
 4.Question: Will there be any homework?
 There is no mandatory required homework as such. However, kids can often freely choose to continue working on their projects at home for fun.
+
 5.Question: Where do the online classes will take place?
 After you book your class and hire the tutor, you can chat with the tutor for figuring out the timing and date of the classes and the tutor will send you the Google Meet link according to your preferred dates and timing. All the ConnectBud online classes will take place on Google Meet.
+
 6.Question: What if my child has already studied some type of programming/coding - will this course be too basic for them?
 At ConnectBud, we are always delighted to meet kids who have already attended other courses or taught themselves some programming. In spite of studied some type of coding before, they will learn new things in every class as we have the most updated syllabus and plenty of unique learning materials to keep them excited.
+
 7.Question: What is the class ratio?
 We are proud to offer hands-on, personalized instruction. All our classes are LIVE 1:1. Your kid will enjoy full attention of the tutor and don’t have to share classes with others.
+
 8.Question: What is the refund, cancel subscription policy? How can I refund the money?
 ConnectBud has a very simplified refund policy. At any stage of the course, you can ask for the refund or request for the cancel subscription. If you are asking for cancel subscription without attending any classes, we will give you a full refund. In case your kid attended few classes and then stopped taking the classes, you can ask for the partial refund. After deducting the money for the completed classes, we will pay back only the remaining amount.
 1. Go to your contract section, there you can find a button named "End Classes" press that button.
+
 2. Give the information asked to you.
+
 3. Your contract will be ended, and you will get your balance money back within a few days.
+
 N.B. Sometimes, refunding money may take time, kindly have patience.
+
 9.Question: How can I extend the contract and add more classes?
 It is very simple, go to your contract section and there is an option called “Add Class”. Just pick the number of classes you want to add. The maximum number of classes you can add at one time is 10. You can keep on adding classes according to your wish applying the same process.
+
 FAQs for Tutors
 We are sharing some of our most frequently asked questions to help you out:
+
 1.Question: Can students directly register into the ConnectBud platform or they need to come through TPO?
 Students can directly register to ConnectBud platform by using their college email address. For the students who do not have a college domain email, they can send mail to support@connectbud.com with a request to join our platform. Our support team will provide you the proper course of action.
+
 2.Question: How do you validate that only genuine students become part of the platform?
 ConnectBud maintains a strict validation process so that only genuine students can access and use our platform. Apart from making it mandatory to register into the platform with proper college email ID, we personally contact with the user and ask relevant questions or asking to furnish documents related to their study in order to verify their claim of being a student. We also directly partner with the colleges and they provided us a valid list of students of their colleges.
+
 3.Question: Is there any fees to register to the platform for students?
 No. ConnectBud platform is ABSOLUTELY FREE TO USE platform for students. Any current student can register to our platform.
+
 4.Question: Am I get paid for every tutoring class I take?
 All the online classes you will take are paid projects with a proper contract. After finishing every class, go to the contract section and ask for release the money.
+
 5.Question: I don't have a valid college domain email address, can I still register?
 Of course, if you are a current student you can register to ConnectBud without a valid college domain email address. Drop us a mail on support@connectbud.com.
+
 6.Question: Where is the company based out of?
 ConnectBud is a California-based company with a state-of-the-art development center in India.
+
 7.Question: How can I get more tutoring projects?
 We suggest you to complete your profile with your current CV, adding all the certifications, uploading short YouTube video speaking about your tutoring skills. Only a complete profile gets more attention from the parents and receives maximum hiring requests.
+
 8.Question: Where will I get my money?
 You will receive your money straight to your bank account. You have to give your bank details and the money will hit that account every time you complete a tutoring milestone.
+
 9.Question: How much money will I get in-hand for 1 hr class and what is the price ConnectBud pays for $1 in the Indian currency?
 The amount for every class you get is what you have set in your pricing. For example, if you set charge $5 per hr you will get $4.1 in- hand and for $10 per hr class you will get $8.2 in-hand after deducting all the transaction and platform charges. We’ve capped the price of 80 INR per 1 USD and you will be paid according to this value. In ConnectBud platform $1 = ₹80 and ConnectBud deducts 18% platform charges on all the bookings.
+
 10.Question: How can I restrict taking any more tutoring projects in case I am too much busy or unavailable?
 There are two ways you can follow if you don’t wish to take up any more tutoring projects:
 FIRST: You can set the capacity of how many tutoring projects you can handle, or you are willing to handle. The maximum capacity of taking projects on ConnectBud is 10, if you wish you can set your capacity according to your preference e.g. 5 or 3 or 6 tutoring projects. Parents cannot hire you beyond your capacity. You can increase or decrease your capacity anytime according to your preference and availability. Here is a process of selecting your capacity:
 1. Go to your ConnectBud profile
+
 2. Click Overview Edit
+
 3. Select the Number of Projects you can Handle
+
 N.B. If you think you can take more than 10 tutoring projects that is beyond our designated maximum capacity, you need to mail us at support@connectbud.com and we will increase your capacity.
 SECOND: In case you don’t want to take any more tutoring projects at all, you can disable your profile and no one can hire you.
+
 1. Go to your ConnectBud profile
+
 2. Off the “Are you Interested in Tutoring” Button
+
+
 11.Question: Can I disable my account? If disabled once, will it remain disabled permanently or I can reopen my profile when I wish?
 You can disable your ConnectBud account anytime you wish and no one can hire you further. Here is the process:
 1. Go to your ConnectBud profile
+
 2. Off the “Are you Interested in Tutoring” Button
+
 You can reopen your ConnectBud account anytime you wish, your account will not be disabled permanently until you requested to do so. Here is the process:
 1. Go to your ConnectBud profile
+
 2. On the “Are you Interested in Tutoring” Button & you will be visible on the platform again
+
 Once you reopen your profile, everything will work as it used to do earlier and you can again take up tutoring projects.
+
 12.Question: Facing problems with the time zone and converting PST to IST? How can I solve it?
 As most of our tutor hiring are from the USA, it is quite obvious they will take the class according to their time zone or prefer to go for PST. Here we are providing the link to easily convert the time according to IST or you can Google it by yourself.
 https://www.thetimezoneconverter.com/
+
 13.Question: What is your policy for removing a tutor from the ConnectBud platform?
 We have a clear policy regarding removing a tutor from the ConnectBud platform:
+
 In the following circumstances, a tutor’s profile will be removed:
 1. If we found any tutor trying to influence the parents to hire her/him personally and directly pay to him/her completely outside the ConnectBud platform.
+
 2. In case a tutor refereeing a different tutor to the parents or trying to influence the parents to hire a different tutor while the parents contacted them.
+
 3. If a tutor is continuously avoiding responding to the parents or ConnectBud team’s chat requests and mail.
+
 4. Any complaint, abuse or misbehavior reported to us by the parents against a tutor will lead to the removal of her/his profile from ConnectBud.
+
 5. ConnectBud has the sole authority to remove any tutor whenever it likes.
+
+
 14.Question: In which circumstances my profile might get blocked or disabled from the platform?
 Violating any of our policies, guidelines, and terms & conditions will lead to the blocking or disabling of your tutor profile. We will send a warning mail to the tutors letting them know about the violations, and for the first time, the profile will remain blocked for 1 month, for the second time the profile will remain blocked for 3 months, and for the third time the profile will be totally disabled from the platform.
+
 15.Question: How can I make the payment request from the ConnectBud platform?
 You can only make payment requests after completing the class.
+
 Here is the process:
 1. After finishing the class, come to your Contract page and put the class completion date.
+
 2. After putting the class completion date, make a gentle request to the parent to confirm the classes. Parents can confirm the classes by going to their contract page and click Click to Confirm Button.
+
 3. Once the classes are confirmed from parents’ end, you need to click Request to Release Money button, it will take you to the Transaction page where you need to click Redeem button.
+
 4. The money will be credited to your account on every Friday.
+
 * Redeem button activate after 7 days when redeemed once.
+
+
 16.Question: Will I get paid for Demo Classes that I will take?
 NO, there will be no payment for the Demo classes you will take with the parents. Demo classes are absolutely non-chargeable and you will not receive any payment for the demo classes from the ConnectBud platform.
+
 The actual amount tutors will get paid in INR according to their rates
-Rate    Platform fee    Actual amount   Amount in INR
-$5  18% $4.1    ₹328.00
-$6  18% $4.92   ₹393.60
-$7  18% $5.74   ₹459.20
-$8  18% $6.56   ₹524.80
-$9  18% $7.38   ₹590.40
-$10 18% $8.2    ₹656.00
-$11 18% $9.02   ₹721.60
-$12 18% $9.84   ₹787.20
-$13 18% $10.66  ₹852.80
-$14 18% $11.48  ₹918.40
-$15 18% $12.3   ₹984.00
+Rate	Platform fee	Actual amount	Amount in INR
+$5	18%	$4.1	₹328.00
+$6	18%	$4.92	₹393.60
+$7	18%	$5.74	₹459.20
+$8	18%	$6.56	₹524.80
+$9	18%	$7.38	₹590.40
+$10	18%	$8.2	₹656.00
+$11	18%	$9.02	₹721.60
+$12	18%	$9.84	₹787.20
+$13	18%	$10.66	₹852.80
+$14	18%	$11.48	₹918.40
+$15	18%	$12.3	₹984.00
 *$1=80INR
 ConnectBud Guideline and Policy for Tutors:
 1. We have a set syllabus for a few subjects but not for all subjects. As a tutor, you need to follow your own syllabus, as various students have various requirements. While chatting with the parents or students during demo class, you can figure out.
+
 2. Introduce yourself as a ConnectBud tutor on the classs and you can also share your personal achievements and experience as a tutor.
+
 3. Respond back to the parent ASAP when parents initiate a chat with you & set the date and time of the virtual classes.
+
 4. Tutors need to set the virtual meeting links for the classes (on Google Meet, Zoom, and Microsoft Teams).
+
 5. The camera should be switched on throughout the class duration and no one else should take the classes on behalf of you.
+
 6. Only after finishing the class, initiate the payment request by giving proper dates when the classes have been completed.
+
 7. Should only upload genuine and authentic documents on the platform such as Mark Sheets, Certificates, Portfolio, and Academic Achievements.
+
 8. Do not make the students or parents confirm all the classes in advance without taking the classes.
+
 9. Can't force the students or parents to hire you outside the platform. Tutors should be hired through the ConnectBud platform.
+
 10. Should not ask or request any extra payment from the students or parents outside the platform.
+
 11. Do not recommend to hire any other tutor from your end, it is only the sole authority of the ConnectBud platform to suggest tutors to parents if she/he wants a recommendation.
+
 12. Kindly inform the students or parents and ConnectBud (mail to support@connectbud.com) in advance if you are not available to take the upcoming classes or want to reschedule the class timing.
+
 *Violating our guidelines and policy will lead to the removal of a tutor’s profile from the ConnectBud platform.
+
 18. Question: Hi, Hey, Hello
 Hello! How can I help you?
+
+
 19. Question: How are you? Are you fine? Are you ok?
 I'm just a computer program, so I don't have feelings in the way humans do, but I'm here and ready to assist you with whatever you need! How can I help you today?
+
 20. Question: Hey Wahts app? 
 I'm just here to help you! What can I do for you?
-21. Question: Goodbye
+
+21. Question: Goodbye, Thank you, Bye, by by, Take Care , Ok, okk, OKK, Sure.
 Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!
-22. Question: Thank you
+
+22. Question: Thank you, Welcome, OKK, Ok Bye, BY, by
 You're welcome! If you need assistance again, don't hesitate to reach out. Have a wonderful day!
-23. Question: Bye
+
+23. Question: Bye, Goodbye, good bye, by, by, Ok, Thanks
 Goodbye! Take care! If you need anything else, feel free to return.
-24. Question: How to contact connectbud support ?
+
+24. Question: How to contact connectbud support?
 You can mail into support@connectbud.com or you can call into 891054687241
-25. Question: What are the courses offered by ConnectBud ?
+
+25. Question: What are the courses offered by ConnectBud?
 We offer various course upon various skills depending upon the age of students. Courses are Chess,Advance Python, Animation, Artificial Intelligence, C, C++, Cloud Computing, Computer Architecture,Computer Networking, Cyber Security, Data Science, Data Structures and Algorithms, Data Vision, Data Visualization, Data Warehouse, Deep Learning, Excel, Game Development, HTML, Introduction to Scratch Coding, Java, JavaScript, Machine Learning, Mobile App Development, PowerPoint, Python, Robotics, SQL, Web App Development, WordPress.
+
 26. Question: What are the courses offered by ConnectBud for Chess?
 Who are just willing to learn chess for them we offer Beginner Level Chess and for those who already have crossed the basic level, they can enroll for Advance Level Chess.
-27. Question: What are the Coding offered by ConnectBud ?
+
+27. Question: What are the Coding offered by ConnectBud?
 We offer various course upon various skills depending upon the age of students. Courses are Chess,Advance Python, Animation, Artificial Intelligence, C, C++, Cloud Computing, Computer Architecture,Computer Networking, Cyber Security, Data Science, Data Structures and Algorithms, Data Vision, Data Visualization, Data Warehouse, Deep Learning, Excel, Game Development, HTML, Introduction to Scratch Coding, Java, JavaScript, Machine Learning, Mobile App Development, PowerPoint, Python, Robotics, SQL, Web App Development, WordPress.
-28. Question: What are the Mathematics classes offered by ConnectBud ?
+
+28. Question: What are the Mathematics classes offered by ConnectBud?
 We offer mathematics course for students from 4th Grade to 12th Grade. For 6th Grade students we offer Pre-Algebra and Pre-Geometry. For 7th Grade we offer Algebra-I and Geometry-I. If you or your child is on 8th Grade we offer Algebra-II and Geometry-II, if he/she is on 9th Grade  Pre-Calc-A , for 10th Grade Pre-calc-AB, for 11th grade APCalculas-AB, for 12th grade Calculas-BC. Other than this we also offer AP Statistics and Vedic Maths.
-27. Question: What are the language courses offered by ConnectBud ?
+
+27. Question: What are the language courses offered by ConnectBud?
 We have available teachers who are qualified to teach variouslaguages. Those are Choose a course Bengali Languages,English Language,French Languages,Gujrati Languages,Hindi Languages,Kannada Language,Marathi Language,Punjabi Languages,Sanskrit Languages,Spanish Languages,Tamil Languages,Telugu Language,Urdu Languages.
-28. Question: is there any creativity courses ?
+
+28. Question: is there any creativity courses?
 Yes. We also offer music and creativity courses like Dance, Drawing, Guitar, Violin, Piano,Vocal Music, Drums, Trumpet.
-29. Question: do you have any courses for Science ?
+
+29. Question: do you have any courses for Science?
 Yes. We have courses on Biology, Chemistry, Physics.
+
+30. Question: What type of information connectbud collect?
+We collect information from and about you when you use our Site. We may also obtain information about you from our affiliates and business partners, other third-parties and publicly available sources.
+
+We may request, collect, or process the following information:
+
+Account Details - username, profile picture.
+
+Contact Details - college email address, personal phone number.
+
+Identity Details - Personal information such as address and bank details when you register with us as a tutor.
+
+Financial Information - credit card details, wire transfer details, payment processor details.
+
+Tutoring Job Applicant Information - If you apply for a job with us — awesome! You may provide us with information like your name, contact information, video resume or CV as part of the application process.
+
+User Generated Content - project descriptions and attachments, bid description, user profiles, user reviews, user messages etc.
+
+31. Question: what is the use case of information?
+We use information collected through the Service to provide and improve the Service, process your requests, prevent fraud, provide you with information and advertising that may interest you, comply with the law, and as otherwise permitted with your consent.
+
+We Use Information We Collect:
+To provide and improve the Service, complete your transactions, and address your inquiries, process your registration, verify the information you provide is valid, and for compliance and internal business purposes.
+
+To contact you with administrative communications, marketing or promotional materials (on behalf of ConnectBud or third parties) and other information that may be of interest to you.
+
+Preventing fraud, spam, and complying with legal obligations.
+
+Giving you relevant search results and recommended tutoring jobs to allow you to participate in interactive features of our websites when you choose to do so.
+
+To provide customer support.
+
+To gather analysis or valuable information so that we can improve our websites.
+
+To detect, prevent and address technical issues.
+
+To provide you with notices about your account, email-instructions, etc.
+
+To provide you with news and general information about our websites in any other way we may describe when you provide the information.
+
+32. Question: How we process personal data?
+We will only process your Personal Data if we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity and our “legitimate interests” or the legitimate interest of others. In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such Personal Data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection. From time to time, we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
+
+33. Question: How do we protect your information?
+We implement a variety of security measures to maintain the safety of your personal information when you register for a class, submit, or access your personal information.
+
+To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies and organisational measures. Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+After a transaction, your credit card information will not be stored on our servers.
+
+34. Question: How we share information?
+We share information about you in limited circumstances, and with appropriate safeguards on your privacy.
+
+Google Analytics- We use Google Analytics to track website traffic. Google Analytics is a web analytics service offered by Google. Google uses the data collected to track and monitor the use of our websites. This data is shared with other Google services.
+
+Legal and Regulatory Requirements- We may disclose information about you in response to a subpoena, court order, or other governmental requests. We may share your personal data with third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our site terms of use or to protect the rights, property or safety of our site, our users, and others.
+
+Business Transfers- As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+
+35. Question: Can individuals under 18 years old access any services or features on connectbud.com? How does ConnectBud handle personal information from individuals under 18 years old? What is the consequence for individuals under 18 years old if they attempt to use connectbud.com? Are there any exceptions to the age restriction policy stated on connectbud.com?
+
+The ConnectBud website is intended for children under 18 years old. We do not knowingly collect personal information from children under 18. No one under the age of 18 years is allowed to provide any Personal Information to connectbud.com. If you are less than 18 years old at the time of your first visit to connectbud.com, you are prohibited from using the website further entirely on your own.
+
+36. Question: Under what circumstances will changes be made to the privacy policy? What factors may prompt changes to the privacy policy? How does the company suggest users stay informed about changes to the privacy policy? What action does the company recommend users take regarding the privacy policy?
+How does the company handle feedback or concerns from users regarding changes to the privacy policy?
+
+Changes to this privacy policy will be made when required in response to changing legal, technical or business development. We recommend that you regularly check for changes and that you review this policy when visiting our website. If you do not agree with any aspect of the updated policy, you must cease using our services.
+
+37. Question:  How can data be deleted? How can users initiate the deletion of their data on ConnectBud? What is the process for requesting data deletion from ConnectBud? Once data is deleted, is there any way for users or ConnectBud employees to recover it? Is there a specific contact method for users to request data deletion?Is What happens to the data once it is deleted from the system?
+
+A user of ConnectBud, can delete the user account upon request (via email to support@connectbud.com). This data is deleted from the system immediately and cannot be recovered by any users or ConnectBud employees after this point. Data which has been deleted or otherwise destroyed can not be recovered at any time. Sufficient warning is given to the account administrator before data are permanently deleted.
+
+38. Question: What terms of use applicable to Parents/Children enrolled/seeking to enroll under the ConnectBud online coding classes?
+
+Information of the Parent
+The Company may make available the facility of enrolling Your child/children for ConnectBud online coding classes, after You have provided the Company information as required by way of online application submitted to the Company (the “Information”).
+You shall ensure that the Information provided by You in the Website's registration is complete, accurate and up-to-date.
+If You provide any Information that is untrue, inaccurate, not current or incomplete (or becomes untrue, inaccurate, not current or incomplete), or the Company has reasonable grounds to suspect that such Information is untrue, inaccurate, not current or incomplete, the Company has the right to refuse or cancel the enrolment of Your child.
+
+Obligations of the Parent
+You shall pay the payments, as prescribed by the Company. If You default in payment of the fees, the enrollment of the student shall stand canceled and You/Your child will not be entitled to receive the online coding classes from ConnectBud tutor.
+You shall not have any claim, whatsoever, on the Content provided by the Company and shall not acquire any right, title or interest in or to the Content.
+
+Obligations of the Company
+The Company shall provide the necessary support to the tutors and parents to enable an enriching experience for the students enrolled in the ConnectBud online coding classes.
+Any instance of misconduct or misdemeanor by the any tutor against You or Your child/children, that shall be reported to the Company and the Company shall take reasonable efforts to immediately suspend the affiliation of that tutor with the Company depending on the veracity of the complaint filed against the tutor.
+
+39. Question: Can you elaborate on the distinction between being a member and an independent contractor for ConnectBud.com as a tutor? What are the specific responsibilities and limitations I should be aware of while working as a tutor on ConnectBud.com? Could you provide more details about the documentation and information required for enrollment as a tutor, such as uploading a profile picture and verifying phone numbers?
+
+If you are a tutor, you understand and agree that your relationship with ConnectBud.com is limited to being a Member and an independent, third-party contractor, and not an employee, agent, joint- venturer or partner of ConnectBud.com for any reason, and you act exclusively on your own behalf and for your own benefit, and not on behalf of or for the benefit of ConnectBud.com. ConnectBud.com does not control, your offline activities. As a Member you agree not to do anything to create a false impression that you are endorsed by, partnering with, or acting on behalf of or for the benefit of ConnectBud.com, including by inappropriately using any ConnectBud.com intellectual property.
+
+When you enroll as a tutor, you will also be required to upload certain information, such as, uploading a profile picture or verifying phone number, current CV, certificates, video resume. Any tutor wishing to enlist on ConnectBud.com must meet these requirements.
+
+40. Question: Could you explain the process for creating listings of online coding courses on ConnectBud.com, including the criteria considered for inclusion? What factors influence the placement or ranking of course listings in search results on the platform? Are student preferences and ratings significant factors? How do students access and enroll in online coding courses on ConnectBud.com based on the information provided in the listings? Are there specific search parameters or preferences students can use?
+ConnectBud.com will create a Listing of various online coding Courses and the details about the Course, including, but not limited to, the subject, topic, number of sessions, mode of conduct, and time slots of the lectures and pricing and related rules and financial terms will be listed on the Site and the Application. Listings will be made publicly available via the Site, Application and Services. You understand and agree that the placement or ranking of Listings in search results may depend on a variety of factors, including, but not limited to Students preferences, ratings.
+Students will be able to view Courses via the Site, Application and Services based upon the information provided in the Listing, Students requirements, and Students' search parameters and preferences. We understand and agree that once a Student requests enrollment for online coding class, we may not request the Student to pay a higher price than that mentioned in the Site or Application.
+Please note that ConnectBud.com assumes no responsibility for a Student's compliance with any agreements with or duties to third parties, applicable laws, rules and regulations. ConnectBud.com reserves the right, at any time and without prior notice, to remove or disable access to any Student for any reason, that ConnectBud.com, in its sole discretion, considers to be objectionable for any reason, in violation of these Terms or ConnectBud.com then-current Standards, Trademark & Branding Guidelines, or otherwise harmful to the Site, Application or Services.
+
+41. Question: what are those that you agree not to engage in any of the following prohibited activities?
+Copying, distributing, or disclosing any part of the Services in any medium, including without limitation by any automated or non-automated "scraping".
+Transmitting spam, chain letters, or other unsolicited communications.
+Attempting to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Services.
+Taking any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure.
+Uploading invalid data, viruses, worms, or other software agents through the Services.
+Collecting or harvesting any personally identifiable information from the Services, except as expressly permitted by certain features of the Services.
+Using the Services for any commercial solicitation purposes.
+Impersonating another person or otherwise misrepresenting your affiliation with a person or entity, conducting fraud, hiding or attempting to hide your identity.
+Interfering with the proper working of the Services.
+Accessing any content on the Services through any technology or means other than those provided or authorized by the Services.
+Bypassing the measures, we may use to prevent or restrict access to the Services, including without limitation, features that prevent or restrict use or copying of any content or enforce limitations on use of the Services or the content therein.
+Disclosing or sharing login credentials.
+Frame or link to any information or content on the Services.
+Post or submit any inaccurate, incomplete, or false biographical information or another person's information.
+Post or submit any material that is unlawful, illegal, defamatory, offensive, discriminatory, threatening, or obscene as determined by ConnectBud.
+
+42. Question: What type or mode of payment connectbud support?
+Payments for the products available on the ConnectBud site may be made in the following ways: Credit Cards, Debit Cards, Net Banking, UPI.
+
+43. Question: What type or service fees connectbud support?
+For each payment between hirer and tutor, ConnectBud takes a percent of the payment volume as a service fee (“Service Fee”). ConnectBud reserves the right to change its fee structure and payment methods at any time, and will inform Users via the Service.
+
+44. Question: What is the user content disclaimer?
+We are under no obligation to edit or control User Content that you or other users post or publish, and will not be in any way responsible or liable for User Content. ConnectBud may, however, at any time and without prior notice, screen, remove, edit, or block any User Content that in our sole judgment violates these Terms or is otherwise objectionable. You understand that when using the Service you will be exposed to User Content from a variety of sources and acknowledge that User Content may be inaccurate, offensive, indecent, or objectionable. You agree to waive, and do waive, any legal or equitable right or remedy you have or may have against ConnectBud with respect to User Content. We expressly disclaim any and all liability in connection with User Content. If notified by a user or content owner that User Content allegedly does not conform to these Terms, we may investigate the allegation and determine in our sole discretion whether to remove the User Content, which we reserve the right to do at any time and without notice. For clarity, ConnectBud does not permit copyright-infringing activities on the Service.
+
+45. Question: What is indemnification?
+You agree to indemnify, defend and hold harmless ConnectBud and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, tutors, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
+
+46. Question: What are the links and third-party sites?
+References on the Site to any names, marks, products or services of third parties or hypertext links to third party sites or information are provided solely as a convenience to you. This does not in any way constitute or imply ConnectBud endorsement, sponsorship or recommendation of the third party, information, product or service or any association and relationship between ConnectBud and those third parties.
+
+47. Question: What type of privacy are there in connectbud?
+Your personal data will be collected and processed by ConnectBud in accordance with our Privacy Policy. The personal data collected may include, without limitation, your name, address, telephone, and email address and other data obtained from you from time to time.
+
+48. Question: What type of compliance with laws is there in connectbud?
+You agree to comply with all applicable laws, regulations and ordinances in the use of the Services and the conduct of your activities.
+
+49. Question: What are the ownership , proprietary rights?
+The Service is owned and operated by ConnectBud. The visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the Service (“Materials”) provided by ConnectBud are protected by intellectual property and other laws. All Materials included in the Service are the property of ConnectBud or our third-party licensors. Except as expressly authorized by ConnectBud, you may not make use of the Materials. ConnectBud reserves all rights to the Materials not granted expressly in these Terms.
+
+50. Question: What are the variation?
+We may revise these terms of services from time to time. The revised terms of services shall apply to the use of our website from the date of publication of the revised terms and conditions on the website, and you hereby waive any right you may otherwise have to be notified of, or to consent to, revisions of these terms and conditions.
+
+51. Question: Why connectBud online Spanish classes are gaining popularity among us school kids can you give me some compelling reasons?
+
+Flexible Learning: With busy schedules and extracurricular activities, traditional classroom learning may not always be feasible. ConnectBud Online Spanish classes offer flexibility, allowing students to learn at their own pace and schedule sessions around other commitments.
+
+Personalized Approach: Each child has a unique learning style and pace. Virtual Spanish classes on ConnectBud cater to individual needs, providing personalized instruction and adapting lessons to suit the student's proficiency level. This tailored approach ensures that every student can progress comfortably.
+
+Interactive Lessons: At ConnectBud, we understand that engaging content is crucial for keeping young learners motivated. That’s why our Online Spanish classes incorporate interactive activities, recitation of Spanish poems, and using Spanish proverbs to make learning enjoyable and effective. From virtual flashcards to interactive quizzes, these classes make language acquisition fun and engaging.
+
+Experienced Instructors: Quality online Spanish programs are led by experienced instructors who are fluent in the language and skilled in teaching children. Spanish language instructors on ConnectBud use proven methodologies to facilitate comprehension and encourage active participation, fostering a supportive learning environment.
+
+Convenient Access: Geography is no longer a barrier to education. Online Spanish classes of ConnectBud can be accessed from anywhere with an internet connection, eliminating the need for travel and allowing students from all regions of the United States to participate.
+
+Cultural Immersion: Learning a language goes beyond vocabulary and grammar; it involves understanding cultural nuances and perspectives. Our online Spanish tutors often integrate cultural elements such as music, cuisine, and traditions in their classes, providing students with a holistic learning experience.
+
+Preparation for the Future: In an increasingly globalized world, proficiency in Spanish opens doors to a myriad of opportunities. Whether pursuing higher education, traveling, or entering the workforce, bilingualism enhances communication skills and expands career prospects.
+
+52. Question: How ConnectBud Helps Students preparing for the (AMC/SAT)?
+Personalized Instruction: ConnectBud online AP course tutors can create personalized learning plans based on a student's strengths, weaknesses, and learning style. This customization ensures that students focus on areas that need improvement, optimizing their preparation for AP courses and competitions.
+
+Flexible Scheduling:  If you hire online tutors for (AMC/SAT)  AP courses from ConnectBud, it will provide you flexibility in scheduling classes at your convenient time, allowing you to access expert guidance at your preferred date and time. This is particularly beneficial for students juggling multiple commitments and other extracurricular activities.  
+
+Real-time Feedback and Support: As a student, you will get instant clarifications of all your doubts on ConnectBud 1:1 live online AMC and SAT classes. Our tutors will offer real-time feedback, clarifying doubts and reinforcing concepts immediately. This instant support is invaluable for students navigating complex topics and preparing for time-sensitive competitions like the AMC and SAT.
+
+Regular Assessments: ConnectBud online AP course tutors will implement regular assessments to track a student's progress. These assessments help identify areas that may need additional attention and allow for adjustments to the learning plan accordingly.
+
+Encouragement and Motivation: Online tutors for AP courses on ConnectBud can serve as mentors, offering encouragement and motivation. This emotional support is crucial during intense preparation periods, helping students stay focused and resilient.
+
+53. Question: How Your Kids Can Get Real-Time Exposure To Java Programming?
+What do Minecraft, Instagram, and Spotify have in common? No, it’s not just that your kids might spend hours on them every day - but that they are all built on Java. Java is one of the most fundamental programming languages that kids can pick up quite easily. Java has made our life easier by removing all the complexities such as pointers, operator overloading. The release of Java 9, 10 and its features is a milestone in the Java ecosystem.
+
+Learning a programming language is equal to training your thought processes. In the digital age, kids are advised to pick up the basics of computer programming, because we can spark their interest about how apps and websites work.
+
+54. Question: Is sasy to learn Java for kids 9+ or Nine plus?
+Java has fluent English like syntax with minimum magic characters e.g., Generics angle brackets, which makes it easy to read Java programs and learn quickly. A nine-year-old girl or boy can effortlessly write, compile, and debug programs compare to other programming languages.
+
+55. Question: Is Java satisfying and fun?
+Programming in Java is a logic-based activity that is highly exciting. Kids will love to take on the challenge of creating something new and the reward of seeing the results. The online Java classes for kids are adjusted for learning Java from ground zero and include programming tasks in a gamified way.
+
+56. Question: How Java makes kids think like a programmer?
+Learning Java first makes a kid think like a programmer from the very beginning. They will learn the language, but they’ll also learn how to think through processes in both the specific and the abstract. Again, that provides a good base for learning programming in general.
+
+57. Question: What are the major applications of Java Programming language?
+Mobile Applications
+Web Applications
+Web and Application servers
+Desktop GUI Applications
+
+58. Question: How kids can get real-time exposure to Java programming?
+The difference between teaching Java to kids and adults is that kids respond better when writing GUI programs, and Java is well equipped for this. ConnectBud is the finest online platform for kids 9+ to learn Java programming. It is an online coding platform, which focuses on enhancing the online learning experience of kids in the most compact way. ConnectBud offers amazing courses of Java programming language at the most affordable price.
+
+59. Question: What are the factors that make connectBud Transparent & reliable online coding platform?
+The trend of learning coding among kids is growing rapidly since couple of years. The closing of educational institutes because of the global pandemic has accelerated the demand of online education. Keeping that trend in mind, online coding and tutoring platforms are mushrooming everywhere.
+
+As a parent, you need to keep in mind that there are very few online coding platforms that offer real value to your kids. You need to know the differentiating factor that makes an online coding platform ideal and value-driven. There are many companies operating in the market just to extract money from the parents in the name of providing online coding lessons.
+
+In this blog, we are going to enlighten you about the features that make an online coding platform trustworthy and how ConnectBud fulfills all the criteria to become the most trusted online coding platform for kids, parents and tutors.
+
+60. Question: What is the culture of transparency and connectivity?
+Building a culture of transparency and connectivity is the hallmark of a trusted online coding website for kids. ConnectBud starts with a foundation of openness to offer top of the line online coding classes to the kids and encouraging them to become the creator of the technology rather than the mere user of the technology. At ConnectBud, we maintain a culture of transparency and connectivity among kids, parents and tutors. Using our ConnectBud chat box, parents and tutors can set up the date and time of the classes, resolve any sort of queries without any unnecessary intervention from outside. It is a marketplace where parents get the best tutors to hire, and tutors get the best tutoring projects to work on. This is the reason within a very short period of time ConnectBud is loved by thousands of parents and tutors. If you're looking for a fun but simple approach to get your kids into coding while being as flexible as possible, ConnectBud is the most suitable platform.
+
+61. Question: What is the responsibilities to high standards of tutoring?
+Computer programming serves as the basis for the technical world that our children are just entering. Teaching your kids to code prepares them for this world and will also set them up for success. An online coding platform that provides exclusive services to the kids should maintain a high standard of performance. ConnectBud is continuously innovating, unlocking critical insights, and upskilling to maintain a competitive advantage with other coding platforms. All our online coding courses provide quality tutorials and more on applying what you have learned. The site also lets you apply your skills to solve real-world problems. ConnectBud is a marketplace where kids can receive personalized coding lessons and tutors can provide personalized services to the parents.
+
+62. Question: What is reasonable pricing of the coding classes?
+Nowadays, a maximum number of online coding websites demand a huge amount of money for teaching coding to the kids. They try to set a wrong standard based on the high pricing. Parents often get influenced by their marketing gimmick and started to think only the platform that charges high are the most useful. There are few free online coding platforms, but they are not at all useful. At ConnectBud, our reasonable pricing makes us different than others. Most of our coding classes start at just $5. We’re the company driven by the mission to provide quality coding education to the kids without compromising with the quality. Our 1:1 live coding lessons are particularly useful for kids looking to learn Python, Java, Data Science, Game Development, App Development, Scratch and more.
+
+63. Question: What is the smart and updated coding tutors?
+Tutors are the bedrock of some of the most successful and agile online coding platforms today. Online tutoring is a digitally-driven world where a tutor has to upskill or reskill themselves to sustain in the market. Teaching coding and programming classes require specialized skills. Only the engineering and computer science students possess that skills. All the tutors on ConnectBud are the current engineering and computer science students. ConnectBud platform only allows tutors with the right qualifications needed to become a coding teacher. We’ve made ConnectBud the online coding platform where parents can hire students of the top universities as a tutor for their kids. Your kids will receive the most updated versions of coding lessons from the ConnectBud student tutors.
+
+Kids have to be taught via using new methods, leaving the outmoded methods behind. At ConnectBud, all our online coding classes are led by the tutors of the top-tier universities with a curriculum that's handpicked to each kid's unique skill level, interests, and goals.
+
+64. Question: Why Tutors on ConnectBud Are the Most Qualified Individuals to Teach Coding to your kids?
+The last decade has seen a paradigm shift in the way present-day kids process knowledge. The online coding platforms are expected to impart skills that prepare kids for the dynamic world of computer programming. For this mission, finding a good teacher for their child has become the most crucial decision for the parents.
+
+ConnectBud makes it easier for parents to make their kids learn computer programming from the top university students. All the tutors on ConnectBud are enthusiastic and motivated individuals who strive to offer the best coding education and can become fantastic role models for kids at all levels.
+
+65. Question: Why Tutors on ConnectBud Are the Most Qualified Persons to Teach Coding to your kids All the tutors are current engineering and computer science students?
+Unlike other coding platforms where persons from even humanities background are taking online coding classes, all the tutors on ConnectBud are the current engineering and computer science students. ConnectBud platform only allows tutors with the right qualifications needed to become a coding teacher
+Every tutor goes through a proper verification check-
+Each and every tutor on ConnectBud goes through a rigorous verification check. Students who apply to become a ConnectBud tutor need to register to the platform with their valid College Domain E-mail ID. It is a unique filtering process that only allows real and validated engineering and computer science students to become a part of our platform.
+
+66. Question: Is students with humanities and commerce background cannot become a tutor on ConnectBud?
+Teaching coding and programming classes require specialized skills. Only the engineering and computer science students possess that skills. No matter if a student has a certificate in coding, if he or she is studying any other subject apart from engineering and computer science, they cannot become a teacher on our platform.
+
+67. Question: Are ConnectBud tutors updated with the current trends?
+The computer and the internet's evolution these past few years have been staggeringly fast. The trend in K-12 education these days is that learning institutions should try their best to keep up with the recent advances in technology to better teach. Thankfully, at ConnectBud we’ve changed with the time. That’s why we’ve made ConnectBud the online coding platform where parents can hire students of the top universities as a tutor for their kids. The biggest advantage of appointing a student as a tutor is students are rightly updated with all the current trends in the world of education. Your kids will receive the most updated versions of coding lessons from the ConnectBud student tutors.
+
+68. Question: A ConnectBud tutor can become a positive role model for your kids?
+Hiring a meritorious student with an outstanding educational qualification as a tutor will have an enormous impact on your kid. They can be inspired to follow the footsteps of their tutors that will ultimately improve their studies. A ConnectBud tutor can become a positive role model for your kids.
+
+Only a student knows the pulse of another student better than anyone else. In short, if you hire ConnectBud tutors for your kids, you can ensure a better teaching/learning experience that may result in higher learning outcomes.
+
+69. Question: How Online Coding Classes Help Building Entrepreneurial Skills Among Kids?
+Entrepreneurship-focused education helps kids to grow up to be more resilient, innovators, collaborative and independent. Regardless of what your children grow up to be, they will need entrepreneurial skills to succeed. So, give them a start and teach about it early on in life.
+
+Entrepreneurship in Education for Kids
+Some people may think entrepreneurship means that kids should be encouraged to start up their own company. This leans on a rather narrow definition of entrepreneurship viewed as starting a business. It is not at all about starting new organizations, but that it instead is about making kids more creative, logical in thinking, proactive and innovative, adhering to a wide definition of entrepreneurship relevant to all walks in life.
+
+70. Question: How Coding helps to build tech-entrepreneurship skills among kids?
+To teach entrepreneurial thinking, it is important to encourage tactical steps. Attending online classes can build a firm foundation for tech entrepreneurship. The online web development, game development and app development classes are the perfect vehicles to help kids, develop a mindset to create the next-gen tech products and innovate new technologies. The online coding programs prepare kids for brighter futures and equipped them for the challenges of today and tomorrow.
+Scratch, AI, Machine Learning, Robotics and computer programming are the future. Quite evident from the current status, that programming by no means is going down rather it will only reach greater heights. Without any previous experience, kids can learn coding and learning how to code at a young age can truly set up your child for a lifetime of success.
+In programming, kids learn how to “handle errors”, that is, anticipate problems that will probably emerge. This is a remarkable skill to grasp at an early age. If you look at all the successful entrepreneurs of the modern age, they have the uncanny ability to anticipate the impending problems and be ready with the probable solutions. When a child is able to effectively solve a problem and see the fruit of their efforts, they can grow without fear of failure. Overcoming the fear of failure is the primary requirement for becoming a successful entrepreneur.
+
+71. Question: What is Final Thoughts?
+We’ll always need doctors and engineers, but we also need entrepreneurs, too. That’s the reason we should start thinking of how we can pay it forward and help inspire, mentor, and empower kids to think like early entrepreneurs. Join the online coding classes of ConnectBud and let your kids reach out to the world and showcase their talent.
+
+72. Question: How connectbud offers a huge array of online coding classes?
+ConnectBud. has a diverse range of Live 1:1 coding classes along with the most updated syllabus. From Java to Python, Web development to Scratch, we cover all sorts of programming languages kids like to learn. Python, HTML, JavaScript, Scratch, Java, Data science, Game development, App development.
+Every day, new colleges and universities are partnering with us that will give us a steady flow of quality tutors. On the other hand, a growing number of parents’ communities are trusting and hiring tutors from ConnectBud . It is an encouraging sign for any ed-tech start up like us.
+Our journey has just started and there are more milestones yet to be achieved and more success stories yet to be written. This landmark of successfully completing 100 classes will definitely encourage us to act more responsibly and dedicatedly to make ConnectBud one of the best online coding platforms on earth.
+
+73. Question: How ConnectBud making the most affordable online coding platform?
+When compared to all other online coding classes for kids, ConnectBud is the most affordable alternative. Whether it is a data science class or JavaScript, parents can hire top-rated tutors at just $5 per one-hour class. From the very beginning, we were clear that our mission would be to make quality online coding education available and affordable for everyone. We will help kids to become the creator of the next-gen tech product and money should not be an impediment in their progress. That’s why, at a very minimal price, kids can learn various types of programming languages from the best tutors on ConnectBud.
+
+74. Question: What connectbud serving parents and tutors community through the same platform?
+Primarily it is our unique concept of connecting kids who want to learn coding with the student tutors of the current generation that has made all the difference. Through our platform, we are able to cater to the needs of the parents as well as giving opportunities to the computer science and engineering students to make use of their knowledge in a better way and start earning a reasonably good amount of money while still in college. In generating income scope for the college students, ConnectBud platform is simply remarkable.
+
+75. Question: Why is coding cool to learn?
+There’s a lot of hype around coding, so let’s start by clarifying what coding actually is. Code tells a computer what actions to perform, and writing code is like creating a set of instructions. By using coding skills kids can create computer software, websites, apps, process data, develop games and do lots of other cool things. Coding enables kids to visualize abstract concepts and lets them apply math to a real-world scenario. Learning coding techniques will encourage children to become creators, not just merely a user of the technology they use in their day-to-day life. They need to realize that what happens when they use technology is not magic.
+
+76. Question: What is the one-stop-destination for coding in connectBud?
+Develop your kid’s understanding of software programming with ConnectBud online coding classes specially designed for kids 9+. Thankfully, this past year, we are able to make ConnectBud stand out from the other online coding platform for kids within a short span of time. Parents have hired student tutors for Java, Python, Data Science, Vedic Math and Scratch lessons for their kids and have given us satisfactory and encouraging feedback. Our curriculum is more comprehensive and structured than any other online coding program available. ConnectBud is the most effective way for your child to learn to code.
+
+77. Question: What appoint is the best students from top universities as a tutor for your kid?
+ConnectBud makes it easier to learn computer programming from the top university students. Unlike other coding platforms that are quite expensive, we’re offering top-of- the-line coding lessons to kids at the most pocket-friendly price. All our classes start at just $5, which is highly affordable for anyone who wants to teach their kids coding. Learn real-world text-based coding with the logic, structure and practical applications of important programming languages. If you are looking for your child to learn to code, explore our live, instructor-led coding classes.
+From coding cool websites to creating video games, from developing mobile apps to understanding Data Science, ConnectBud offers you all that you need to set up and grow your child’s computer programming skills. Let your child master the concept of Python, Java, Data Science, Vedic Maths, HTML and Computer Programming with 1:1 LIVE online classes of ConnectBud.
+ConnectBud is a premier online coding platform for kids. Parents can easily find and hire verified student tutors from 100+colleges as an online coding instructor for their kids.
+
+78. Question: How Coding reshapes your Kid’s Mathematical mind?
+Mathematics plays an important part in a kid’s development. The skills help them make sense of the world around them as they are beginning to explore patterns, shapes, compare sizes and count objects. A key feature of mathematical thinking is thinking out of the box. It is an approach built to solve real-world problems. Learning to code can easily aid to grasp the concept of maths and get rid of the fear of this subject.
+
+79. Question: How Coding Helps Developing Early Math Skills?
+In the early years, you can help your child begin to develop early math skills by introducing her/him to coding and computer programming. Apart from boosting 21st-century skills, online coding classes, enable your children to turn math into a subject they consider tremendously useful, more engaging and even fun. Kids don’t have to memorize all the requirements of web accessibility to write code that meets the standards. It turns out that searching for answers, rather than memorizing, is a normal part of coding.
+One of the biggest challenges of math classes is bringing real-life examples to the class. Online Java/Python/HTML/Data Science classes are filled with loads of activities. These classes will help kids to think logically. They can reconnect the problem in the real life-like situation and start solving them. At ConnectBud, our online coding classes make it easy to refresh topics or learn new information.
+Solving coding challenges help students to extend their understanding of integer and modulus division such as writing programs. In computer science courses, different programming commands act as tools that help focus attention on meaningful use of remainders.
+Coding helps children to be able to visualize abstract concepts. They can apply the skills of math to real-world situations, and makes math fun and creative. Learning to code makes your child successful in this tech-driven world to think – creatively, innovatively, and expansively.
+
+80. Question: How Computer Coding is the Future?
+Computer programming brings the creative element out of every child. Today coding has come to be a basic literacy for the digital age we live in. Students of today with appropriate knowledge can consume technology and understand how to controls and create with it.
+
+81. Question: How App Development Skills Help Kids Enhance their Classroom Performance?
+One of the easiest ways to get a taste of programming basics for kids is letting them involve with one hour of online coding activities. These activities are designed to take only an hour and can give kids the chance to learn the basics of coding and how they can build simple mobile apps.
+
+82. Question: How does App Development Skills Enhance Classroom Performance of a Kid?
+Learning the skills of coding and mobile app development create an interesting learning atmosphere. It enables children to secure better grades, strengthening logical thinking to execute assignments and other related activities with precision.
+Here are five simple App Building Stages for Kids: 
+1- App architecture - The application architecture gives kids a roadmap and best practices to follow when building an application, so that kids end up with a well-structured app. As a discipline, application architecture lays the foundation for agility, scalability and reliability.
+2- Visual image - Visual image for their app’s design gives the young developers a complete idea of using colors, style, content that will go into their app.
+3- Coding an app - First and foremost, you need to know what you want to learn before you start coding. Kids design their first app while learning both fundamental programming concepts and collaborative software development processes.
+4- Testing- Kids will identify the functionality and usability of their app by conducting a thorough testing of it that will include- checking screen resolution, checking the app on different devices and more.
+5- Launching- After the testing is done, it’s time to launch the app. Deciding if you’re building for Apple or Android is one of the first things you’ve got to do when you’re getting ready to launch an app. You may even be in a position where you’re able to launch on both platforms simultaneously.
+
+83. Question: How ConnectBud Kids can explore the world of Mobile App Development?
+In the past few years, online coding for kids has redefined the entire learning sector. Popular online coding platform for kids like ConnectBud is continuously encouraging kids of all ages to learn and explore the world of mobile app development and generate more interest to make learning fun.
+
+84. Question: What Makes ConnectBud a One-Stop-Destination for Coding?
+Four live and interactive sessions, each one hour long
+On-demand resources and ongoing support
+Block-based coding lessons
+Course costs $5 per class
+After class assistance
+
+85. Question: Why Learning Artificial Intelligence is Key for Young Innovators?
+In the coming future, Artificial Intelligence will have a huge impact on almost every part of our lives, and many are predicting that the impacts will be greatest on kids. From a very early age, kids are increasingly exposed to concepts of artificial intelligence and machine learning.
+The overall goal of AI is to make software that can learn about an input and explain a result with its output. AI systems demonstrate at least some of the following behaviors associated with human intelligence: planning, learning, reasoning, problem-solving and more. From chess-playing computers to self-driving cars, most AI use-cases are heavily linked with deep learning and natural language processing.
+
+86. Question: Why AI matters for our kids?
+In the near term, the goal of keeping AI’s impact on society beneficial motivates research in many sectors. That is the reason Artificial Intelligence is quickly becoming a key area of focus for young innovators. Making kids understand how Artificial Intelligence works is an excellent way to enhance their critical thinking. The knowledge of AI will empower them to build something innovative from a very young age. As Artificial Intelligence is the center of many technologies, by knowing AI technology, kids will be able to grow a concept in other technologies also.
+Machine Learning -> Kids will know how to use neural networks to find hidden insights from data.
+Deep Learning -> Will get knowledge of how to utilize huge neural networks with many layers.
+Cognitive Computing -> Understand the inner-workings of a human-like interaction with machines.
+Computer Vision -> Develop a sharp knowledge of how computer vision utilizes pattern recognition and deep learning to understand a picture or video.
+AI for kids -> We must raise kids by providing them ample knowledge of AI technology and how it can be used to innovate new things. According to a report from the World Economic Forum (WEF), Artificial Intelligence can create almost 58 million jobs in the next few years. Thus, the most pragmatic reason for teaching kids about AI is its direct congruence with their employability and career success. The best workers of the future will be able to use, re-use, invent, chat, and dream better with the help of technology.
+
+87. Question: What robotics programs of ConnectBud can teach your kids?
+Problem-solving: Robotics programs of ConnectBud develop problem-solving skills and creativity.
+Computer programming skills: It will enhance computer programming skills.
+Science and math concepts: Robotics curriculum of ConnectBud helps to improve science and math concepts.
+At ConnectBud,we offer every kid coding resources that are valuable and effective.
+
+88. Question: How Robotics learn?
+Robotics, and technology in general, isn't just a 'nice to have' extra-curricular subject. It's central to where humanity is headed. Advanced robotics programs of ConnectBud enable kids to build their own programs for their robots. They will know that putting together simple robots is easy and develop a better logical and computational thinking. By enrolling your kids in the ConnectBud robotics classes, you’re providing them the chance to learn the courage to work through mistakes; and problem-solving skills.
+
+89. Question: Why We should Introduce our Kids with Robotics Technology?
+Robotics is an interdisciplinary sector of science and engineering dedicated to the design, construction and use of mechanical robots. This field overlaps with electronics, computer science, artificial intelligence, mechatronics, nanotechnology and bioengineering. Robotics, design, construction, and use of machines (robots) to perform tasks done traditionally by human beings.
+
+90. Question: Has robotics started to gain momentum as a brunch of study among the kids?
+Over the last couple of years, robotics has become highly popular among kids as a brunch of study. It has been noticed that robotics can encourage other broader skills like hands-on creativity, problem solving, communication, and teamwork among kids. With the help of a wide variety of hands-on activities, kids will be able to understand the basics of robotics, algorithms and other programming languages.
+
+91. Question: What Advantages of studying robotics for kids?
+Our future world will be based on the robotics technology. It is going to be the most important life-skill for the kids. Having a sound knowledge of robotics from the very early stage of life will be an added advantage for the new-age kids. Even pre-schoolers can develop better cognitive skills by using simple robotic toys.
+Take a look at how the study of robotics help overall development of a child:
+It strengthens problem-solving concept, Improves computer programming skills, Encourages creative thinking, Introduces kids to math and science in a hands-on, real-world way, Helps to develop social skills among kids
+
+92. Question: Why Scratch is the Most In-Demand Programming Language for Kids?
+Scratch is a visual programming language that kids can use to program their own interactive animations, fun games and stories. ConnectBud.com provides excellent tutors to learn Scratch Programming Basics. Kids can learn the fundamentals to get them started so that they spend less time confused and more time programming amazing things.Coding is considered to be the most important life skills for kids in the 21st century. It helps them to think creatively, enhance their problem-solving skills, and strengthening their reasoning power. Coding platforms like ConnectBud that offers collection of opportunities for kids to get involved in coding. These opportunities aim to be fun and gamified to keep the young mind engaged.
+
+93. Question: What is Scratch?
+Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab and is available for free download at http://scratch.mit.edu. Scratch is a visual programming language that kids can use to program their own interactive animations, fun games and stories. Kids love using tablets and phones, and every program built on Scratch is designed to run on them.
+
+94. Question: Is Scratch the most in-demand programming language for kids?
+There are many programming languages, but Scratch is quickly becoming the most popular programming language for kids. Logical thinking is required for coding. It consists of formulating step by step procedures to produce a desired outcome. The simple syntax of Scratch is ideal for this purpose.
+
+95. Question: Why Learn Scratch Programming?
+Apple’s CEO Tim Cook says, “coding should be required in every public school in the world” and even states that it could be more important to learn to code for kids than to learn English as their second language. The parents seem to agree as a growing number of parents encourage their kids to learn Scratch coding.
+• Learning Scratch involves manipulating code blocks within the playground. Scratch has a zero-code interface, which means that users (who call themselves scratchers) don't have to write source code for the programs they create.
+• Scratch is considered to be the most flexible visual programming language that enables kids to perform various types of experiments. By experimenting, kids learn and strengthen their brains. Even when they make a mistake they learn.
+• Kids learn how to “handle errors”, that is, anticipate problems that will probably come, and writing the perfect codes that will prevent the entire program to crash when the error occurs.
+• Scratch has proven to be a popular initiative with over 25,000,000 student projects created to date. The program, which is used in more than 150 different countries and is available in more than 40 languages. 
+The robust online coding platforms like ConnectBud provides support and online coding help so that children can learn Scratch coding. ConnectBud.com provides various online courses in Scratch Programming Basics. Kids can learn the fundamentals to get them started so that they spend less time confused and more time programming amazing things.
+
+96. Question:How Online Coding Classes Foster Creative Genius Hidden Inside Every Kid?
+Learning coding techniques will encourage children to become creators, not just merely a user of the technology they use in their day-to-day life. They need to realize that what happens when they use technology is not magic. Online coding classes help them to understand the core technologies that run all these things. Learning coding and new-age programming languages have become increasingly popular among kids. The early kids learn to code, the better their chance at success in their academic area.
+
+97. Question: What is solution if we don’t have to wait until college to encourage our kids to attend coding classes?
+Coding gives a unique opportunity for kids to solve problems in a different way. They take up a problem, break it down into bite size steps and find solutions that will solve the problem. Children are encouraged to think critically and strategically to solve problems Whether a kid wants to build a new tech product, starting a new hobby or just wanting to understand technology, learning the coding skills at the primary school level is an immensely appreciated ability to have in the 21st century.
+
+98. Question: Why Is Scratch Perfect For The Young Coders?
+The knowledge of coding is as important as writing and arithmetic. The shift to online learning has opened up new vistas of education and computer programming is leading the way. The block-based visual programming language Scratch is hot-favorite among the kids.
+Scratch has been designed in such a way that children use colorful command codes which makes it a lot more fun and interactive. Kids learn through experimentation and strengthen their brains when they code, allowing them to embrace their creativity. Recognizing that to meet the needs of a rapidly changing, technology-driven world, at Scratch, we have introduced exciting online Scratch Coding classes for kids.
+
+99. Question: 3 Reasons why Scratch is so popular among the kids- Scratch does NOT require syntax?
+In order to build their own program, kids only have to do is move blocks around. It is manipulated through visual means rather than by typing code. At ConnectBud, we’ve created the ideal platform to begin the process of learning how to code using Scratch.
+
+100. Question: How Quickly learn the basic concepts of coding?
+Scratch programming for kids is an excellent digital tool of self-expression and growth. Your child will quickly learn the basic concepts of coding from the very beginning.
+
+101. Question:What is the principles of programming more tangible?
+The Scratch environment makes it fun for students of any age to think, create, and collaborate digitally. When you start programming as a beginner, student tutors of ConnectBud suggest to build your own project, participate in coding challenges, play coding related games, practice it at home every day.
+
+102. Question: Want to Teach your Kids Coding? A Complete Information Guide for Parents?
+Learning how to code at a young age can truly set up a child for a lifetime of success. The knowledge of computer programming and coding are going to be the most important future skill. Learning to code is an amazing, practical, and hugely rewarding hobby. But the most crucial part is coding must be taught correctly.
+Parents don't need to have an extensive programming background to teach kids to code. There are many online coding platforms to take care of it but as a parent, you need to know some basic information on coding for kids. So, parents should keep on reading this article to find more effective & fun learning ways about coding for kids.
+
+103. Question: What is coding?
+Coding is a simple and fun way to introduce your child to computer science, perhaps for the very first time. Coding is the method of communicating with a computer. Coding is a way of telling a computer how to perform a task in its understandable language. Coding allows us to create things such as computer software, websites, apps and video games.
+
+104. Question:What is coding language?
+Coding language is basically the language that the computer understands. There are different coding languages such as Java, visual block, Python and C. Programmers use these languages to instruct the computer. Kids as young as 7 can begin learning the principles of how to program and how programming works by using games, apps, interactive websites.
+
+105. Question: How parents can select the best online coding platform for their kids?
+Selecting a trusted online coding platform for kids can be hard to navigate. With so many different platforms available, how do you pick? Here are few tips that will help you pick the most suitable coding platform for your child.
+Check the quality of the tutors -> Coding requires specialized knowledge on the subjects related to science. So, make sure the coding tutors on the platform are from the CS and engineering background or it would be better if they are the current students.
+Student/teacher ratio -> As paying attention to a child has an immense impact on their learning, it is crucial to consider the student and teacher ratio aspect while choosing a coding program. It is always a good idea to opt for the online coding platforms for kids that offer live 1 to 1 coding lessons.
+Variety of courses -> The watermark of a trusted online coding platform for kids is it will offer a variety of coding courses. Parents have the choice to select multiple coding courses such as Java, Python, Data Science, Vedic Math and Scratch lessons for their kids.
+
+106. Question:Are Online Summer Coding Camps for Kids Worthy of any Attention?
+Summer holidays are the best time for kids to learn new things and acquire knowledge about innovative concepts. As going outside and spending time on outdoor activities are restricted due to the pandemic, learning computer coding and programming languages are the hottest trends among the new-age kids. Enrolling in the online summer coding camps for kids is the finest option to make the best use of the summer break. Summer camp is great for empowering students in general, but coding camp takes that a step further.
+However, many parents are in doubt whether these online summer coding camps bring any real value to the development of their children or they are just a fad. In order to clear out the entire concept of summer coding camps and their actual value, team ConnectBud is highlighting some of the key points that will help parents judging the worth of summer coding camps.
+
+107. Question: Summer coding camp helps kids build a unique interest?
+In schools, children usually don’t get the chance to learn game design, mobile app building or data science. But, in the coding camps that ConnectBud offers, children can learn all the advanced programming languages like Python, Java, HTML, JavaScript, Scratch and more. Your child gets the chance to develop an interest in anything outside of the core school subjects and specializes in hardcore coding from an early age.
+
+108. Question: Coding camp helps with school & academic performance?
+Computer science and coding aren’t just about developing a program to solve or perform tasks. Children that learn to code can improve and develop multiple facets of their educational syllabus including maths, writing, and creativity. They’ll be in a place where their interest in technology is embraced and encouraged, rather than being shunned.
+
+109. Question: How Learning from positive role models?
+At ConnectBud online summer coding camps, kids are being taught coding by the tutors who are currently studying in the top-tier universities. All the tutors on ConnectBud are the current engineering and computer science students. ConnectBud platform only allows tutors with the right qualifications needed to become a coding teacher. Your child will understand how these tutors have accomplished their goals of becoming successful in their academic life, and be inspired by their hard work and determination.
+
+110. Question: How summer coding programs foster personal growth of a child?
+Summer coding programs can foster personal growth and entrepreneurial skills among kids through independence, self-advocacy and personal responsibility. They will know the inner functions of computers, video games, robots, and other technology and can be inspired to create a new tech product. Your kids will be exposed to some of the cutting-edge technologies and how they work. It is a great opportunity for kids to learn about AI, ML, Robotics, Gaming Technology and share more about their own experiences with their tutors.
+
+111. Question: What is the impact of extracurricular activities on kids?
+Participating in activities you are passionate about can increase your brain function, and help you concentrate and manage your time better, all of which contribute to higher grades.
+Extra-curricular activities are one such opportunity to provide a space for learning and growth that can’t be replicated anywhere else.
+Extracurricular activities help to develop knowledgeable and competent students who possess high moral standards and are responsible and capable of contributing significantly to their own and society’s welfare.
+
+112. Question: What is Guitar Classes?
+Playing an instrument is more than just a skill. Most people who play an instrument beyond childhood do it for other reasons. They want to be admired, they want to relax and relieve stress, or they want to share it with other people in a more social environment. Admittedly, learning how to play guitar is of a great benefit for kids. Practicing guitar has been shown to improve hand-eye coordination. Children develop important motor skills, similar to when they take part in certain sports activities. It’s just that the risk of injury is less when playing guitar.
+
+113. Question: What is Dance Classes?
+Well in the middle of all the fun and social activities, there is a range of extracurricular activities that can play a significant role in developing your child’s talents, interests, and passion and dance is the finest of them. Dance has been famous for many things ranging from its beauty to its ability to enhance one’s flexibility. But what we tend to ignore is the benefits of dance in child development. Dance always involves complete fitness activities ranging from cardio, flexibility and sometimes strength training. It is the fun way to keep your kids healthy and deal with child weight issues.
+
+114. Question: What is Chess Classes?
+By playing chess, kids can improve and develop cognitive skills, including memory, logical thinking, critical thinking, concentration, problem-solving, and visual processing. While playing chess, the most active part of our body is the brain. As the brain works like a muscle, it needs regular exercises for being healthy and avoid injuries. In order to win in the game of chess you must have the ability to foresee multiple possibilities and outcomes in order to formulate a successful plan.
+
+115. Question: What is Drawing Classes?
+Children can’t always express themselves using words and actions, so drawing is another important form of communication. Drawing creates immediate visual feedback that changes depending on the tool your child uses and how he or she uses it. Wide experience in drawing is an essential prerequisite for learning to write, so the importance of drawing in education cannot be overstated. Drawing helps children develop fine motor skills by improving their hand-eye coordination. The more they practice to draw lines and figures, the faster they can improve their colouring and handwriting skills.
+
+116. Question: How many ways Parents Can Help in Online Learning for Kids?
+1.Fix A Correct Schedule -> To cultivate discipline as a habit, do things by following a routine. A fixed schedule encourages kids to be disciplined. Also, this practice, in the long run, creates their confidence. Plus, parents can help kids exercise this by assuring that they have curated plans, even though they are at home.
+2.Keep Their Essentials Handy -> We know, while going to school, parents generally check if their kids have their things in the bag. You may want to keep on this practice through the virtual classes too.The last-minute rushes to find their stationery things, etc. makes them miss their focus and they might fall back on following instructions. It is, thus, essential to ensure the things are always nicely placed.
+3.Dedicate A Study Place -> A dedicated area to sit comfortably and study will encourage kids to enhance their attention and priority on learning.It also provides them their area for schooling and learning. Parents can moreover ensure they are around to keep a check in case their kids need any aid.
+4.Internet Safety -> The Internet is a powerful world with no restrictions, and so it is incredibly significant to take safeguards and ensure security from cyberstalking. By ensuring the privacy constraints on the system that the kid is using for classes, parents can keep toxic content away from them. You may set up parental controls on Windows or Chrome for careful use of the Internet.
+5.Adequate Screen Gap -> Along with the essential and non-negotiable virtual classes, kids must be motivated to do more offline workouts. Revisions can be performed verbally or on paper. They can also be motivated to follow their hobbies such as painting and drawing, dance, music. These recreations will refresh them, while also providing them a break from the prolonged screen time.
+6.Be A Problem Solver for Your Kids -> Kids can be reluctant to ask doubts with online classes. In such situations, as super parents, you are expected to ask them if they require any assistance and provide that help. Kids can always feel lost and helpless, which will be inadequate.
+7.Help Them in Doing Their Homework -> In virtual classes, children are striving to distinguish between classwork and homework. That is everything is being done from home itself. It is thus important to have a diary and note down homework separately to aid them with this differentiation. It is also significant that kids should be provided with different notebooks for each. Also, parents should regularly check their daily schedules and tasks.
+8.Provide Snacks Breaks for Kids -> While in school, kids often use their snack breaks for interacting with their pals. Now since they are spending time just at home, snack breaks can be used as a gap to interact with the family.Keeping the discussion away from schoolwork will be of ultimate primacy because the goal is to give them a snack break.
+9.Focus on The Health of Kids -> Kids’ mental and physical health is of absolute significance in these times.Thus, parents need to motivate their kids to immerse themselves in physical activities. Certainly, there are area and time constraints but, simple indoor workouts along with the family members can be exciting.Workouts have been known to generate endorphins that extremely enhance their mood too.
+10.Communication Is Important -> We have all understood how this pandemic has impacted all of us. It is also well realized that parents have faced severe anxiety due to economic situations, livelihood, and weakened relationships.
+However, sadly, even children are vulnerable to stress. It is very essential to talk to them and let them share their concerns and feelings.
+11.Enable Them to Interact with Companions -> Your kids have a lot of social interactions on school days that they are losing due to the pandemic outbreak and successive lockdowns. Allow your children to bind with their companions online through video chats or messaging. You can also arrange video call playdates with other parents. Video chatting is a reasonable way to relate with people along with staying safe during the Covid-19.
+12.Don’t Allow Kids Treat It Like a Vacation -> Remind your kid that their schooling comes first. It may seem like leisure to them and they may not seem encouraged enough to study. Therefore, always remind the kids that significant aspects like courses, tests, and their grades should not be ignored just because they are at home or because classes have moved virtually.
+13.Stimulate Your Children to Be More Responsible and Independent -> Being responsible and independent are significant qualities for kids. You can help your kid to cultivate these qualities. Make them learn more about taking responsibility, working independently, amongst other things.
+14.Encourage Active Learning -> Well, kids often need active learning as well as peaceful learning such as reading and doing assignments. Active learning includes asking and answering queries, working out problems, and analyzing interests.
+15.Join ConnectBud Online Classes -> Compared to the classroom environment, in the ConnectBud online coding and math classes, kids are able to learn coding and math at both the time and pace that suit them. They don't need to go anywhere for the class. With the internet and a computer or laptop, they can learn coding and math easily. With the help of smartphones and tabs, students can practice maths anywhere, even while playing games or listening to music.
+
+117. Question: How Learn Math in a Simplified Way with ConnectBud Online Math Classes?
+ConnectBud is an exclusive online learning platform where only the current MTech, MSc and Ph.D. scholars can join as a tutor. It is a huge opportunity for the students to learn math and science subjects from the persons who are updated with the latest in the educational field and are currently pursuing their studies from some of the top universities. All the tutors on ConnectBud are savvy with the new teaching method, giving valuable references and examples from the internet in order to reinforce the difficult concepts of math. As shown by the research of American scientists, the results of online learning are in no way inferior to traditional ones, and in some cases exceed the expectations of students and parents. The perfect selection of the online learning platform is the most important part of deriving maximum value. Join ConnectBud platform now and start exploring the benefits of online math classes.
+
+118. Question: How Study from own comfort zone?
+Compared to the classroom environment, in the ConnectBud online math classes, kids are able to learn math at both the time and pace that suit them. They don't need to go anywhere for the class. With the internet and a computer or laptop, they can learn math easily. With the help of smartphones and tabs, students can practice maths anywhere, even while playing games or listening to music.
+
+119. Question: Kids can enjoy a personalized learning experience?
+Kids can access all the resources during the class, properly clear out their doubts from the tutors, can take help for their homework, and even get personalized coaching for particular exams like Math Kangaroo or Math Olympiad. The online math classes on ConnectBud provide the flexibility and freedom that are essential for the proper development of math knowledge.
+
+120. Question: No room for distraction during the class?
+Math and science are the subjects that require utmost attention. Any sort of distraction can heavily jeopardize the conceptual development and understanding of the subject matter. As the online math classes on ConnectBud are based on 1:1 live session there is no room for distractions, disturbances, and interruptions. Throughout the class, tutors can fully concentrate on a single student as well as students get the advantage to learn from a tutor who is only focusing on her/him.
+
+121. Question: How the US Students can Earn Money While Continuing their Studies with ConnectBud?
+Working while studying can be a great opportunity to earn money for the American students. As the Covid-19 pandemic restricted many on-field job opportunities, the online arena is full of lucrative job options for the US students. Platforms such as ConnectBud where only the current college students can sign up as a tutor and taking online classes are opening up hosts of earning avenues for the students of the US universities and colleges.
+Remote tutoring jobs are posted almost daily on ConnectBud.com. It’s free and easy to create an account on the platform and get hired for tutoring jobs. You get to determine your rate and raise it whenever you want with an option to work as much or as little as you’d like.
+
+122. Question: What are the highest-paying subjects for online tutors on ConnectBud?
+Python, Java, JavaScript, Scratch, Web Development, App Development, Game Development, Coding, Vedic Math, Math, Homework Help, Music
+
+123. Question: How Much you can Earn as a Remote Tutor on ConnectBud?
+ConnectBud is allowing greater access to the best tutors. More and more number of parents are turning to online tutoring as opposed to in-person tutoring. The earning possibilities are limitless as you get the chance to set your own pricing and get paid for per hour class. Your earning entirely depends on the amount of time and the number of tutoring projects you can handle. To make the most as an online tutor:
+Give more time to remote tutoring per day
+Try to teach various subjects so your acceptability will increase a lot
+Respond quickly to any chat or hiring request on ConnectBud
+Always keep your profile updated
+
+124. Question: What are the Homework Help Job Opportunities on ConnectBud?
+All the US schools assign homework to their students as a way to help kids develop skills they’ll need when they’re older—to begin to instill a sense of responsibility and to learn planning and organizational skills. There is a huge need for the tutors who can help kids with their homework on ConnectBud. This assistance is specific to the chapter and subject matter given in the assignment. Along with taking online coding classes, you can select homework help in your skillset and get hired by the parents for homework help classes. ConnectBud is geared to help current college students in the USA to find the best earning opportunities. It’s absolutely easy to sign up as a tutor on ConnectBud and get hired by the parents for high-paying tutoring offers.
+
+125. Question: How ConnectBud makes online math classes fun and engaging?
+1-Young Tutors are Taking Online Math Classes -> All the tutors on ConnectBud are current college students studying in some of the renowned global universities. They are young and dynamic with a full of passion to teach. Being young, they can easily connect with the kids and on the other hand, kids also enjoy to learn from a young tutor. It is the strong connectivity and bonding between the learner and the tutor that makes online math classes so exciting on ConnectBud.
+2-Engagement-led Online Math Lessons -> Selecting the right methods, the right representations and the right order are the crucial elements in making a math class engaging and enjoyable for the kids. The online math tutors on ConnectBud are methodical in their teaching approach, expert in presenting tough aspects of maths in an easy way and know the perfect ordering of lessons. Studying mathematics through ConnectBud can do away with the math phobia and anxiety.
+3- Live 1:1 Classes Make Math Lessons More Enjoyable -> Kids learn math smartly in a live 1:1 online classes. They have more opportunities to ask the tutor questions, clearing their doubts, solving complex chapters of maths, and directly get instructions from the tutors. The close interaction with the tutors makes the entire session thoroughly enjoyable. The online math classes on ConnectBud help kids to be more prepared for the next level.
+The new teaching environment uses different methods and ideas. ConnectBud with a robust community of talented tutors allows kids to solidify their concept of mathematics in a fun environment in an engaging way. 
+
+126. Question: How Interesting it is to Learn Math Online from ConnectBud?
+The subject that sees a lot of hesitation and reservations is Mathematics. Whether it is learning the basics of Calculus, Trigonometry or even fractions, there is a question mark to its relevance.
+Sometimes all it takes is a little thinking outside the box to find non-traditional ways like online math classes to make math fun and get kids excited about learning. To make math fun for kids, it’s a matter of finding that “just right” platform like ConnectBud. It is easier to see and correct the mistakes, troubleshoot the problems and getting the proper understanding of different branches of mathematics with ConnectBud online math classes.
+
+127. Question: What will you learn in ConnectBud online Animation classes?
+Animation skills and the fundamentals of storytelling, How to create “Claymation” and “Humanisation”, 
+Cartoon drawing skills, How to develop a cartoon and create a character, How to use Toon Boom Harmony, professional animation software, Digital illustrations and simple drawings, Storyboards and project plans for their animation projects, 2D animated short films using keyframes and simple drawings, A stop-motion animated film using clay and props, A final animation reel that shows off their work as well as their final project
+
+128. Question: How Gain a deeper understanding of 2D and 3D Animation?
+Animation and visual effects are key contemporary screen story and visualization skillsets. Kids will gain a deeper understanding of the concept of motion in relation to the physical world. The program prepares students for 2D and 3D Animator, Game Art & Animation, 3D Animation & VFX for Film, 3D Model Builder and more. From concept to delivery, all the kids who are taking the ConnectBud 1:1 live online animation classes will be able to produce original animated projects. In a fun and interactive environment, kids will learn how to use various animation techniques. Join ConnectBud online animation classes and sharpen your kid's intelligence and creative quotients with peer-to-peer learning at the convenience of your home.
+
+129. Question: How College Students Can Learn, Earn & Flourish by Becoming a Tutor on ConnectBud?
+For college students, it was tough to earn a decent income from a part-time job some years back. But now, a college student can conveniently earn a reasonable income by becoming an online tutor on ConnectBud that can sustain them throughout their study year without going broke or deep in debt. ConnectBud is the leading online coding website for the kids and the unique thing about this platform is all the tutors on this platform are the current college students studying computer science and engineering.
+
+130. Question: How Become an Online Tutor on ConnectBud?
+ConnectBud offers exciting tutoring projects with a decent amount of money. Any current engineering or CS student can easily become a coding tutor on the platform and start earning right away. It’s a great way to elevate your skills, make an income, and get rid of the boredom that staying at home has brought with it. There is a huge demand for online coding tutors. And this is the sector where students can make the best use of their knowledge. Online teaching doesn’t require any traveling overhead. You can teach right while sitting at your home. Online teaching could thus be perceived as a work from home with flexible schedules.
+
+131. Question: What Type of Tutoring Projects you can Get?
+With ConnectBud, you can go for any subject you are good at. From Python to Scratch coding classes, you can pick your teaching projects according to your liking. All our tutoring projects are based on coding language ( apart from Vedic maths ). Take a look at the tutoring projects you can get from ConnectBud:
+Online Python Coding Classes, per 1 hr class you will get $5-$15, Online Java Coding Classes, per 1 hr class you will get $5-$15, Online JavaScript Coding Classes, per 1 hr class you will get $5-$15, Online HTML Coding Classes, per 1 hr class you will get $5-$15, Online Scratch Coding Classes, per 1 hr class you will get $5-$15, Online Web App Dev Classes, per 1 hr class you will get $5-$15, Online Python Coding Classes, per 1 hr class you will get $5-$15, Online Game Dev Classes, per 1 hr class you will get $5-$15, Online Vedic Maths Classes, per 1 hr class you will get $5-$15, Online Data Science Classes, per 1 hr class you will get $10-$15
+
+132. Question: Follow the Steps to Become an Online Tutor With ConnectBud?
+Only a current college student can become a tutor on ConnectBud. During opening your profile on ConnectBud, you need to have your individual email id with your college domain e.g. rahul@iitkhp.in. . In case you don’t have a college domain id, you need to submit a proof such as your college id card or something that validates you are a current student. STEP1- Log in to the website from Tutors Log In- https://www.connectbud.com/login. STEP 2- Sign Up with your individual email id with your college domain STEP 3- Fill up all the required fields. STEP 4- Make your profile as complete as possible by adding all the information. STEP 5- Keep checking your mail for the hiring alert, once you get hired, you will get a mail from ConnectBud.
+Getting the right tutoring projects has become easier than ever before, create your ConnectBud tutor profile. Every college student gets an opportunity to learn, earn, share, and flourish. The platform has grown into a global creative marketplace that offers highly paid online tutoring projects for the new-age computer science and engineering students.
+
+133. Question: What Kids Will Learn on ConnectBud Intro to Web Development Courses- Introduction?
+Create your first web page using HTML and CSS.
+Headings and Images -> Using images and font styles, create a poster, a poem and a photo gallery.
+All About Lists -> Learn about ordered and unordered lists to organize content on a web page.
+Adding Hyperlinks -> Use hyperlinks to link to other pages. Create image links. Use CSS to style links.
+Using Containers -> Use container elements such as div and section to structure your page.
+Tables and Media -> Learn to format content using tables. Embed video and audio in your page.
+More on Styling -> Learn about forms and more CSS features for advanced layouts and designs.
+Pixel Art -> Create fun pixel art shapes by using CSS and divs.
+Generally speaking, kids ages 5-8 will do better with visual programming environments. Starting at age 8, some kids may demonstrate an ability to dig into the text of a language, but you probably want to start them off with something simple. As we get into the pre-teens and ages 13 and up, full programming languages can be taught, depending, once again, on the child (and the language).
+
+134. Question: What Learning Objectives of Web Development are there in connectBud for Kids?
+Write HTML and CSS
+Organize the code that makes up their website by splitting it into markup, CSS and JavaScript
+Understand website creation conventions
+Use CSS3 to customize, position and animate their web page elements
+Customize creative websites
+Use basic JavaScript commands to store information, do basic calculations and manipulate web elements
+Use control operators in JavaScript in their web development
+Learning Coding literally requires efforts like that of learning a language and researchers say, “Earlier you start learning a language, faster you learn”, Thus, it gets extremely important for the young minds to be channelized towards prepping themselves for the digital future.
+Remember that being informative is essential, but having an aesthetic design is equally important. Kids will learn the solution design and deftly apply it to produce websites and apps that users will actually enjoy using.
+
+135. Question: How Kids Encourage to Learn Python Programming with ConnectBud?
+Gone are the days when coding was learnt much later in life. These days, it is common to see kids learning to code. Python programming is perfect for beginners. Unlike the majority of programming languages, Python’s syntax is concise and easily readable by humans which makes it an ideal language for beginners. It mirrors the human language far better than any other programming language.
+
+136. Question: Why Python is the definite choice for the kids?
+Python is a beginner-friendly language and has often been used as the core programming language when it comes to teaching children. When it comes to starting kids out on their coding journey, it is advisable to begin with a language that is easy to grasp, has few syntactic rules, and provides ease of expression. Often, children programming is to help kids to discover the fun of coding and to build long term interest so that they are inclined to pick up complex programming in the future.
+The syntax of Python is incisive and easily readable by individuals of any age group.
+Python has an excellent selection of libraries, from NumPy and SciPy for scientific computing to Django for web development.
+In fact, it’s one of the most accessible programming languages available. Part of the reason is the simplified syntax with an emphasis on natural language.
+Python is a powerful general-purpose programming language and it is used in web development, data science, creating software prototypes, and so on.
+
+137. Question: How Encourage Kids to Learn Python with ConnectBud?
+The key is to ease kids into learning Python by working with small chunks of information at a time. If the information is organized into a highly visual format, that’s even better. At ConnectBud, we have many classes, camps, and courses that teach kids Python. One of our flagship classes is Python Classes for Age 9+. Our tutors use several methods for teaching Python to kids, including using the PPT presentation, gamification, live demo, hands on coding and more.
+
+138. Question: How to Introduce Your Kids to Modern Technology?
+In the age where kids are "growing up digital," it's essential to help them learn the concepts of computer programming. Media and digital devices are an integral part of our world today. The benefits of these devices, if used moderately and appropriately, can be great. If you do choose to introduce your child to technology at an earlier age, introduce them with educational programming and other tech-related activities.
+
+139. Question: What Makes ConnectBud a One-Stop-Destination for Kid’s Coding?
+Unlike other coding platforms that are quite expensive, we’re offering top-of- the-line coding lessons to kids at the most pocket-friendly price. All our classes start at just $5, which is highly affordable for anyone who wants to teach their kids coding.
+Live and interactive sessions, each one hour long, On-demand resources and ongoing support, Block-based coding lessons, Course costs $5 per class, After class assistance
+
+140. Question: Where to Start?
+Only a good online coding platform can fulfill your kid’s ambition to become the future coder. If your kids are really good programmers, super motivated to learn new stuff and are not afraid of taking up new challenges, ConnectBud is the finest platform for learning computer programming. ConnectBud is the finest launching pad for kids to learn app development. No programming experience needed, and kids can animate their own artwork in a really easy way with the guidance of ConnectBud tutors who are actually the current students of the leading global universities and colleges.
+
+141. Question: Why Engaging Students for Prototyping is an Excellent Idea :- Save Money & Resource?
+The world is going through an economic downturn. Companies need to find out areas where they can reduce costs. Rather than appointing a full-fledged development team to look after the prototyping phase, hiring talented college students for performing this task can save you a huge amount of money and resource. With ConnectBud, one of the leading student marketplaces, it is easy and inexpensive to hire a student of a top college for conducting your prototyping task.
+Get Fresh Perspective -> Current students would be the future users of the product. They can offer better ideas about the product from a fresh perspective. You can enjoy working with a young group of engineering students and get their creative design ideas and implement them in your product. Hiring a college student for prototyping tasks allows you to streamline the entire design and development process.
+Reduces the Workload of the Development Team ->Prototyping is a time-consuming process. By outsourcing prototyping task to the college students, you can free up time for your designing and development team. This will significantly reduce the workload of the development team in developing the project, and they can better concentrate on the other important assignments
+Students are Superb in Adopting New Technologies -> Prototypes aren’t simply beta tests for developing a final version. They require immense tech-skills to judge their final functionality. The ability to navigate through new, innovative technologies is perhaps the biggest advantage of hiring a college student for your prototyping task. Students hold excellent computer or technical skills suited for the new-age companies.
+Final Thoughts -> All the college students on ConnectBud platform are able for smooth transition to different situations. They’re perfectly positioned to evolve with the organization and face off new challenges.
+
+142. Question: Why ConnectBud Homework Help Solutions is Ideal for your Kids?
+Homework is essential for students as it helps them to revise all the topics that they learned in the classroom. Connectbud is one of the most trusted online homework help platforms that allows to hire students of the top colleges. Loaded with amazing features and online tutoring capability, Connectbud can literally be a school away from school. Homework is an important part of study for the kids. On an average, kindergarten to fifth graders have three hours of homework per week, sixth to eighth
+
+143. Question: How ConnectBud Homework Help Solutions Have Become a Part of a Student's Academic Environment?
+As today’s kids are pre-occupied with various activities, they do require online homework help in order to keep up with their study pressure. Homework help websites have become an integral part of a student’s academic life. There are multiple platforms that provide valuable online homework help solutions and among them ConnectBud is the finest.
+Connectbud is one of the most trusted online homework help platforms that allows to hire students of the top colleges like Harvard, Stanford, IITs and NITs .
+
+144. Question: Why Online Tutoring is a Promising Job Option for College Students?
+By doing online tutoring jobs, students can make up some of their expenses along with keeping up with their studies. Being a tutor proves that you have the skills to clearly state instructions and explain concepts in a way that is understandable and concise. From Vedic maths to music, there are many categories available for tutoring.
+Tutoring is quickly emerging as the finest way to earn money for the college students. With the emergence of the online tutoring jobs website like Connectbud.
+
+145. Question: How Tutoring helps you refresh your own skills?
+By doing online tutoring jobs, students can earn extra money along with keeping up with their studies. Interestingly enough, being a tutor also helps you to maintain your own skills as well. For instance, since living school, you haven’t worked with algebra. You can refresh your knowledge of the subject that can ultimately help you with various types of placement tests and entrance exams. Tutoring gives you a chance to refresh yourself on material that might have otherwise been forgotten!
+
+146. Question: Why Kids love young and dynamic teachers?
+In the modern day, kids love to have a teacher who is young, dynamic and passionate. College students possess all these qualities, and they are better equipped to work on a kid’s weak points, making the whole learning process more effective and well-balanced.
+
+147. Question: How many Chance are there in connectBud to teach various subjects?
+Online teaching is a vast field where you can teach any subject that you like. Along with conventional subjects like history, geography, physics, you can also teach music, art, drawing, photography. Online tutoring portfolio is highly diversified with thousands of options to choose from.
+
+148. Question: What are the top categories available for tutoring?
+Vedic Maths-This subject is becoming immensely popular among the kids in the US and European countries. There is a huge of Vedic maths tutor in the online tutoring platforms. Parents from the US and the Europe spend a huge amount of money on the Vedic math teacher. If you are good at teaching Vedic maths, your chances of earning will increase a lot.Coding- “What better way for our children to understand why and how the technology around them operates than by learning to code.
+
+149. Question: What Kids can Learn from Online App Development Class?
+With hands-on, project-based approach, kids experience the fun part of learning computer science.
+Will explore the fun part of computer coding, learning new programming languages.
+Will enjoy the complete freedom in terms of the app they create.
+Get the chance to improve their reasoning power and problem-solving abilities.
+Become tech-ready to adopt, use and implement the future technologies that are yet to come.
+
+150. Question: What Factors that Make ConnectBud so Attractive for kids to learn app development?
+1. Classes start from as low as $5. 2.Current students of the top colleges are teaching.
+3. Get continuous learning support. 4. A feature-rich platform to learn app development skills.
+Tailor the level of complexity and methods of interaction with your app for children of a certain age group. ConnectBud platform allows all young minds to build their own apps on both web and mobile platforms.
+
+151. Question: How many Languages you can learn from ConnectBud online 1 to 1 language classes?
+Bengali Language, English Language, French Language, Spanish Language, Gujarati Language, Hindi Language, Kannada Language, Marathi Language, Nepali Language, Odia Language, Punjabi Language, Sanskrit Language, Tamil Language, Telugu Language, Tulu Language, Urdu Language.
+
+152. Question: How ConnectBud makes language learning simple for everyone?
+Speaking a foreign language is very empowering for your personal growth. ConnectBud has the biggest range of foreign and Indian language classes on its platform. ConnectBud’s online 1 to 1 language classes are ideal for language learning, thanks to the ability to review and practice material at your own pace.
+
+153. Question: What are the real value of ConnectBud live online language classes?
+1. Biggest range of languages to select from a single platform. 2. Students are taught about the history of the language, the culture of the language, and the people of the connected country. 3. You can take courses to improve your speaking ability, your writing skills, or even details of grammar in a foreign language.4. You can take courses to improve your speaking ability, your writing skills, or even details of grammar in a foreign language. 5. Learn from the most experienced tutors who are experts in their respective fields of language training. 6. Live 1 on 1 online language classes start at just $5.
+
+-----------
+Parent FAQs:
+---------------
+
+154. Question: What offers does the ConnectBud Platform provide to parents?
+Enjoy an exclusive 20% discount on ConnectBud classes! Simply share a picture of your child in a ConnectBud class on Instagram if you have over 1000+ followers. Tag our ConnectBud page and ensure the post remains visible for at least one month to avail of this special offer.
+
+155. Question: What are ConnectBud's Parent Membership Benefits?
+Unlock exclusive Membership Benefits including:
+
+10% discount on all bookings
+24/7 support
+Response in less than 30 minutes
+Unlimited Demo classes from different tutors Membership Fees: Monthly $10/Month, Yearly $100/Year. Visit
+Membership Plan for details or contact us at support@connectbud.com.
+156. Question: Does the ConnectBud Team assist?
+Let us know if our tutors haven't provided you with a demo class or haven't fixed a demo class date. We'll ensure proper arrangements. Contact us for any demo class assistance at support@connectbud.com.
+
+157. Question: How does ConnectBud provide Summer Camp Classes during Summer Vacations?
+Introducing Summer Camps for School kids of all grades with a 1:4 ratio. Our recommended tutors will schedule group classes as per your requirements.
+
+158. Question: Why should parents enroll their kids in the ConnectBud platform?
+(Optional)
+ConnectBud is a premier online learning platform for kids offering classes starting from USD 5 per Hour. We provide Free Demo classes, 24/7 Tutor support, weekly assessments, and after-class assistance.
+
+159. Question: Can ConnectBud tutors assist with assignments?
+
+Our tutors offer personalized 1-to-1 support for completing school assignments through Homework Help classes.
+
+160. Question: Are ConnectBud tutors available for college projects?
+
+Yes, our tutors provide tailored assistance for college projects and thesis through Project Help classes.
+
+161. Question: Do ConnectBud tutors cover engineering subjects for Engineering/BCA/MCA students?
+Our tutors offer 1-to-1 classes for engineering subjects such as QA Automation, Backend & Frontend Development, and more.
+
+162. Question: Is privacy a priority? (Optional)
+Yes, your privacy, as well as your child's, is paramount to us. We do not share your information with any third party.
+
+163. Question: Can I monitor my child’s progress?
+Certainly, ConnectBud tutors provide progress reports for your child once all classes are completed, enabling you to monitor their development.
+
+164. Question: Does ConnectBud provide certificates for kids?
+Yes, upon completion of the project, you can download your child's certificate from your contract page.
+
+165. Question: Does the ConnectBud platform have a mobile app?
+(Optional)
+Yes, we're excited to announce the launch of the ConnectBud App for both Android and iOS devices, scheduled for April 2024.
+
+166. Question: What offers does the ConnectBud Platform provide to parents?
+Enjoy an exclusive 20% discount on ConnectBud classes! Simply share a picture of your child in a ConnectBud class on Instagram if you have over 1000+ followers. Tag our ConnectBud page and ensure the post remains visible for at least one month to avail of this special offer.
+
+167. Question: What are ConnectBud's Parent Membership Benefits?
+Unlock exclusive Membership Benefits including:
+
+10% discount on all bookings
+24/7 support
+Response in less than 30 minutes
+Unlimited Demo classes from different tutors Membership Fees: Monthly $10/Month, Yearly $100/Year. Visit
+Membership Plan for details or contact us at support@connectbud.com.
+168. Question: Does the ConnectBud Team assist?
+Let us know if our tutors haven't provided you with a demo class or haven't fixed a demo class date. We'll ensure proper arrangements. Contact us for any demo class assistance at support@connectbud.com.
+
+169. Question: How does ConnectBud provide Summer Camp Classes during Summer Vacations?
+Introducing Summer Camps for School kids of all grades with a 1:4 ratio. Our recommended tutors will schedule group classes as per your requirements.
+
+170. Question: Why should parents enroll their kids in the ConnectBud platform?
+(Optional)
+ConnectBud is a premier online learning platform for kids offering classes starting from USD 5 per Hour. We provide Free Demo classes, 24/7 Tutor support, weekly assessments, and after-class assistance.
+
+171. Question: Can ConnectBud tutors assist with assignments?
+
+Our tutors offer personalized 1-to-1 support for completing school assignments through Homework Help classes.
+
+172. Question: Are ConnectBud tutors available for college projects?
+
+Yes, our tutors provide tailored assistance for college projects and thesis through Project Help classes.
+
+173. Question: Do ConnectBud tutors cover engineering subjects for Engineering/BCA/MCA students?
+Our tutors offer 1-to-1 classes for engineering subjects such as QA Automation, Backend & Frontend Development, and more.
+
+174. Question: Is privacy a priority? (Optional)
+Yes, your privacy, as well as your child's, is paramount to us. We do not share your information with any third party.
+
+175. Question: Can I monitor my child’s progress?
+Certainly, ConnectBud tutors provide progress reports for your child once all classes are completed, enabling you to monitor their development.
+
+176. Question: Does ConnectBud provide certificates for kids?
+Yes, upon completion of the project, you can download your child's certificate from your contract page.
+
+178. Question: Does the ConnectBud platform have a mobile app?
+(Optional)
+Yes, we're excited to announce the launch of the ConnectBud App for both Android and iOS devices, scheduled for April 2024.
+

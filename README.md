@@ -1,21 +1,17 @@
-# Langchain RAG Tutorial
+# 1. Clone the project from repository:
+```git clone https://github.com/s-maity-17/chatbot-backend123.git```
 
-Install dependencies.
+# 2. Create vitual environment(First time only):
+```python -m venv venv```
 
-```python
-pip install -r requirements.txt
-```
+# 3. Activate virtual environment:
+```venv\Scripts\activate```
 
-Create the Chroma DB.
+# 4. Upgrade pip
+```python -m pip install --upgrade pip```
 
-```python
-python create_database.py
-```
+# 5. Install requirements.txt:
+```pip install -r requirements.txt```
 
-Query the Chroma DB.
-
-```python
-python query_data.py "How does Alice meet the Mad Hatter?"
-```
-
-You'll also need to set up an OpenAI account (and set the OpenAI key in your environment variable) for this to work.
+# 6. Run REST(Flask) Service:
+```python server.py```

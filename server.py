@@ -8,7 +8,7 @@ CORS(app)
 # REST: Home page
 @app.route('/')
 def home():
-    return 'Welcome to Chant bot!!'
+    return 'Welcome to Chat bot!!'
 
 @app.post("/chat-bot")
 def process_text():
