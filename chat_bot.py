@@ -129,7 +129,7 @@ def get_db_response(question):
         Answer the question based on the above context: {question}
         """
         query_text = question
-        response_text = None
+        response_text = "Sorry, I couldn't understand.. ask me another question"
         set_llm_cache(InMemoryCache())
 
         # Prepare the DB.
@@ -148,9 +148,9 @@ def get_db_response(question):
         # print('==========input=============',len(prompt.split()))
 
         model = OpenAI(api_key=os.environ.get('OPEN_AI_KEY'))
-        result = model.predict(prompt)
 
         with get_openai_callback() as cb:
+            result = model.predict(prompt)
             response_text = str(result).strip()
             Logger.info({'message': 'Call back ', 'response': cb})
 
